@@ -1,0 +1,605 @@
+FOLDER level: not_crashed/err0_mod2
+total improvement
+mean: 0.7157371090992214
+population std dev: 0.1943640329833908
+
+improvement rate (# of cycles)
+mean: 0.6913721849735533
+population std dev: 0.31009685648721314
+
+improvement rate (time)
+mean: 1.2300931818335201
+population std dev: 1.4689536778064176
+
+improvement during development
+mean: 0.6604824254429251
+population std dev: 0.22868048559717544
+improvement during random drift
+mean: 0.055254683656296155
+population std dev: 0.145602937666133
+
+improvement before first drift
+mean: 0.3563371287982328
+population std dev: 0.21551454273841977
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.7170677958347487
+population std dev: 0.1827464310703053
+
+improvement up to final drift
+mean: 0.7170677958347487
+population std dev: 0.1827464310703053
+improvement during the last drift
+mean: -0.0020828140208254296
+population std dev: 0.08794203784504732
+
+
+
+test: is development better than drifting (total)?
+successes: 34
+failures: 2
+p-value binom test: 1.94122549146e-08
+ttest_rel, two-tails:
+(array(10.834690505627538), 9.9875246964556374e-13)
+
+test: is drifting useful?
+successes: 35
+failures: 1
+p-value: 1.0768417269e-09
+
+is last drifting useful?
+successes: 10
+failures: 13
+p-value: 0.677639484406
+
+
+
+FOLDER level: not_crashed/err0_mod4
+total improvement
+mean: 0.6433667422843126
+population std dev: 0.2020887353100389
+
+improvement rate (# of cycles)
+mean: 0.7078857475837974
+population std dev: 0.3578296119947015
+
+improvement rate (time)
+mean: 0.27722461376189705
+population std dev: 0.44404388525824995
+
+improvement during development
+mean: 0.6022906762950664
+population std dev: 0.22399759824152476
+improvement during random drift
+mean: 0.059149535024514595
+population std dev: 0.09900467622966402
+
+improvement before first drift
+mean: 0.4953015494483631
+population std dev: 0.2181068981475017
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.633762256557008
+population std dev: 0.2010744939372485
+
+improvement up to final drift
+mean: 0.633762256557008
+population std dev: 0.2010744939372485
+improvement during the last drift
+mean: 0.015716431190134647
+population std dev: 0.07544755129021159
+
+
+
+test: is development better than drifting (total)?
+successes: 23
+failures: 2
+p-value binom test: 1.94311141968e-05
+ttest_rel, two-tails:
+(array(9.233264519753437), 2.279863392566423e-09)
+
+test: is drifting useful?
+successes: 21
+failures: 4
+p-value: 0.000910520553589
+
+is last drifting useful?
+successes: 11
+failures: 11
+p-value: 1.0
+
+
+
+FOLDER level: not_crashed/err0_mod6
+total improvement
+mean: 0.5744521883159973
+population std dev: 0.2501019484310903
+
+improvement rate (# of cycles)
+mean: 0.7473808871198632
+population std dev: 0.4126890627652578
+
+improvement rate (time)
+mean: 0.16754468300531788
+population std dev: 0.2687645473077601
+
+improvement during development
+mean: 0.5572891129810791
+population std dev: 0.2451948932155542
+improvement during random drift
+mean: 0.0280850323662296
+population std dev: 0.09033436856457445
+
+improvement before first drift
+mean: 0.5095728566862644
+population std dev: 0.22965416674302286
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.5740075507090642
+population std dev: 0.2302029586851263
+
+improvement up to final drift
+mean: 0.5740075507090642
+population std dev: 0.2302029586851263
+improvement during the last drift
+mean: 0.0008003476924796832
+population std dev: 0.09402866297611868
+
+
+
+test: is development better than drifting (total)?
+successes: 21
+failures: 1
+p-value binom test: 1.09672546387e-05
+ttest_rel, two-tails:
+(array(10.634041978037924), 6.5326521131968056e-10)
+
+test: is drifting useful?
+successes: 12
+failures: 10
+p-value: 0.831811904907
+
+is last drifting useful?
+successes: 15
+failures: 5
+p-value: 0.041389465332
+
+
+
+FOLDER level: not_crashed/err30_mod2
+total improvement
+mean: 0.3407230529145686
+population std dev: 0.17995177980349078
+
+improvement rate (# of cycles)
+mean: 0.5468406435510068
+population std dev: 0.39264755901806586
+
+improvement rate (time)
+mean: 0.7122767383345084
+population std dev: 1.0400179673742456
+
+improvement during development
+mean: 0.29054919881472735
+population std dev: 0.1776995077352329
+improvement during random drift
+mean: 0.051607392788408146
+population std dev: 0.13653532260566337
+
+improvement before first drift
+mean: 0.19325284773040294
+population std dev: 0.11872848171624933
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.35381441575446554
+population std dev: 0.17841816377158168
+
+improvement up to final drift
+mean: 0.35381441575446554
+population std dev: 0.17841816377158168
+improvement during the last drift
+mean: -0.014281486734433014
+population std dev: 0.07302652143275014
+
+
+
+test: is development better than drifting (total)?
+successes: 30
+failures: 5
+p-value binom test: 2.23615206778e-05
+ttest_rel, two-tails:
+(array(5.290507348303837), 7.2072069584426724e-06)
+
+test: is drifting useful?
+successes: 30
+failures: 5
+p-value: 2.23615206778e-05
+
+is last drifting useful?
+successes: 11
+failures: 22
+p-value: 0.0801433124579
+
+
+
+FOLDER level: not_crashed/err30_mod4
+total improvement
+mean: 0.3171967725867389
+population std dev: 0.19131859699323145
+
+improvement rate (# of cycles)
+mean: 0.5824315844891986
+population std dev: 0.421815433504626
+
+improvement rate (time)
+mean: 0.17554573109456062
+population std dev: 0.338763726879555
+
+improvement during development
+mean: 0.30385571158808294
+population std dev: 0.14890960573205744
+improvement during random drift
+mean: 0.01600927319838715
+population std dev: 0.16290325104521242
+
+improvement before first drift
+mean: 0.2679173075563391
+population std dev: 0.11872738313758348
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.33092778064894424
+population std dev: 0.17150668876307495
+
+improvement up to final drift
+mean: 0.33092778064894424
+population std dev: 0.17150668876307495
+improvement during the last drift
+mean: -0.01901216500920735
+population std dev: 0.055369883252551176
+
+
+
+test: is development better than drifting (total)?
+successes: 26
+failures: 4
+p-value binom test: 5.94761222601e-05
+ttest_rel, two-tails:
+(array(6.051030526741523), 1.384830354601468e-06)
+
+test: is drifting useful?
+successes: 23
+failures: 7
+p-value: 0.00522287935019
+
+is last drifting useful?
+successes: 7
+failures: 19
+p-value: 0.028959274292
+
+
+
+FOLDER level: not_crashed/err30_mod6
+total improvement
+mean: 0.29625060727584934
+population std dev: 0.14868500202744375
+
+improvement rate (# of cycles)
+mean: 0.5657460954690751
+population std dev: 0.48852696630944575
+
+improvement rate (time)
+mean: 0.07132143329397224
+population std dev: 0.13284994966816357
+
+improvement during development
+mean: 0.24406872387726267
+population std dev: 0.11360834901936968
+improvement during random drift
+mean: 0.07827282509787999
+population std dev: 0.16366724716832137
+
+improvement before first drift
+mean: 0.2440929401337508
+population std dev: 0.10960371960663705
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.2713750820170129
+population std dev: 0.12880450909466676
+
+improvement up to final drift
+mean: 0.2713750820170129
+population std dev: 0.12880450909466676
+improvement during the last drift
+mean: 0.04477594546590566
+population std dev: 0.10549576748966831
+
+
+
+test: is development better than drifting (total)?
+successes: 18
+failures: 6
+p-value binom test: 0.0226558446884
+ttest_rel, two-tails:
+(array(2.832830795977327), 0.0094297665116359862)
+
+test: is drifting useful?
+successes: 12
+failures: 12
+p-value: 1.0
+
+is last drifting useful?
+successes: 12
+failures: 8
+p-value: 0.503444671631
+
+
+
+FOLDER level: not_crashed/err60_mod2
+total improvement
+mean: 0.22759944652189887
+population std dev: 0.18938564628325194
+
+improvement rate (# of cycles)
+mean: 0.48930778297626354
+population std dev: 0.4526609794185875
+
+improvement rate (time)
+mean: 0.7615008610345562
+population std dev: 1.3901333401989076
+
+improvement during development
+mean: 0.161685770941016
+population std dev: 0.14110510564069031
+improvement during random drift
+mean: 0.06591367558088286
+population std dev: 0.1464895051701371
+
+improvement before first drift
+mean: 0.17034447306001246
+population std dev: 0.11032360898089318
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.22769996559470862
+population std dev: 0.17502184214386696
+
+improvement up to final drift
+mean: 0.22769996559470862
+population std dev: 0.17502184214386696
+improvement during the last drift
+mean: -0.00010643195944560596
+population std dev: 0.10557518133392353
+
+
+
+test: is development better than drifting (total)?
+successes: 25
+failures: 11
+p-value binom test: 0.0288167196559
+ttest_rel, two-tails:
+(array(2.617055254648674), 0.013009678143823191)
+
+test: is drifting useful?
+successes: 23
+failures: 13
+p-value: 0.132498163963
+
+is last drifting useful?
+successes: 15
+failures: 19
+p-value: 0.607591361273
+
+
+
+FOLDER level: not_crashed/err60_mod4
+total improvement
+mean: 0.18843012477119708
+population std dev: 0.1366924508324864
+
+improvement rate (# of cycles)
+mean: 0.4377107481155582
+population std dev: 0.3805868077943523
+
+improvement rate (time)
+mean: 0.1619690187675885
+population std dev: 0.3551563926141809
+
+improvement during development
+mean: 0.13254466080105504
+population std dev: 0.1071377402328372
+improvement during random drift
+mean: 0.06096596069470043
+population std dev: 0.10677745067048347
+
+improvement before first drift
+mean: 0.14883099009621897
+population std dev: 0.0955977479689626
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.18918793395368938
+population std dev: 0.14050785509979885
+
+improvement up to final drift
+mean: 0.18918793395368938
+population std dev: 0.14050785509979885
+improvement during the last drift
+mean: -0.0009743260917757877
+population std dev: 0.0767631360359654
+
+
+
+test: is development better than drifting (total)?
+successes: 22
+failures: 11
+p-value binom test: 0.0801433124579
+ttest_rel, two-tails:
+(array(2.0832276674604646), 0.045303471527061094)
+
+test: is drifting useful?
+successes: 19
+failures: 14
+p-value: 0.486850241665
+
+is last drifting useful?
+successes: 14
+failures: 14
+p-value: 1.0
+
+
+
+FOLDER level: not_crashed/err60_mod6
+total improvement
+mean: 0.21417805511403867
+population std dev: 0.103213515866938
+
+improvement rate (# of cycles)
+mean: 0.529592780995793
+population std dev: 0.45548197286740294
+
+improvement rate (time)
+mean: 0.12089047901693203
+population std dev: 0.16966357012383945
+
+improvement during development
+mean: 0.15915034954426147
+population std dev: 0.1074647854816791
+improvement during random drift
+mean: 0.06190616876599935
+population std dev: 0.1023780230302672
+
+improvement before first drift
+mean: 0.156792691282566
+population std dev: 0.0914932387611875
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.2067856140286464
+population std dev: 0.10506417488618099
+
+improvement up to final drift
+mean: 0.2067856140286464
+population std dev: 0.10506417488618099
+improvement during the last drift
+mean: 0.009856588113856379
+population std dev: 0.05585911060897947
+
+
+
+test: is development better than drifting (total)?
+successes: 21
+failures: 11
+p-value binom test: 0.110184165183
+ttest_rel, two-tails:
+(array(2.6051566318138777), 0.013980211876143536)
+
+test: is drifting useful?
+successes: 19
+failures: 13
+p-value: 0.377085587475
+
+is last drifting useful?
+successes: 16
+failures: 11
+p-value: 0.442068338394
+
+
+
+FOLDER level: not_crashed/first_batch_all_exps
+total improvement
+mean: 0.7572527940727456
+population std dev: 0.16980810703131238
+
+improvement rate (# of cycles)
+mean: 1.0748581094172496
+population std dev: 0.5318832048662208
+
+improvement rate (time)
+mean: 7.1316721040563955
+population std dev: 13.466846304803695
+
+improvement during development
+mean: 0.6817077581752755
+population std dev: 0.17518970500719716
+improvement during random drift
+mean: 0.09233282165246338
+population std dev: 0.13054321162044166
+
+improvement before first drift
+mean: 0.5092441390912495
+population std dev: 0.24587490824809188
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.7526652585985821
+population std dev: 0.17371114702941673
+
+improvement up to final drift
+mean: 0.7526652585985821
+population std dev: 0.17371114702941673
+improvement during the last drift
+mean: 0.006881303211245072
+population std dev: 0.07077494865509534
+
+
+
+test: is development better than drifting (total)?
+successes: 27
+failures: 0
+p-value binom test: 1.49011611938e-08
+ttest_rel, two-tails:
+(array(12.481262628140179), 1.7447609900534455e-12)
+
+test: is drifting useful?
+successes: 23
+failures: 4
+p-value: 0.000310748815536
+
+is last drifting useful?
+successes: 7
+failures: 15
+p-value: 0.133800506592
+
+
+
+FOLDER level: not_crashed/first_batch_two_factor
+total improvement
+mean: 0.6988199190616361
+population std dev: 0.17961601843537403
+
+improvement rate (# of cycles)
+mean: 1.1141836427666554
+population std dev: 0.5304732295604238
+
+improvement rate (time)
+mean: 8.881126092579562
+population std dev: 6.326087980887531
+
+improvement during development
+mean: 0.5750843512350795
+population std dev: 0.19788442158424321
+improvement during random drift
+mean: 0.1237355678265566
+population std dev: 0.09767391747713454
+
+improvement before first drift
+mean: 0.40350336729097
+population std dev: 0.2231642121513031
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.6643165937766728
+population std dev: 0.2192478104305253
+
+improvement up to final drift
+mean: 0.6643165937766728
+population std dev: 0.2192478104305253
+improvement during the last drift
+mean: 0.03450332528496335
+population std dev: 0.06945425082373317
+
+
+
+test: is development better than drifting (total)?
+successes: 30
+failures: 3
+p-value binom test: 1.40117481351e-06
+ttest_rel, two-tails:
+(array(10.004149669317938), 2.2442247547963364e-11)
+
+test: is drifting useful?
+successes: 29
+failures: 4
+p-value: 1.09286047518e-05
+
+is last drifting useful?
+successes: 20
+failures: 13
+p-value: 0.296206368599
+
+
+

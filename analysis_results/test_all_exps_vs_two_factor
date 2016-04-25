@@ -1,0 +1,9 @@
+test difference all experiments vs only two factor growth exp (two-tail rel t-test)
+improvement: (w/o last drift)
+(array(1.7255167263689493), 0.094080716226577515)
+improvement rate per cycle
+(array(-0.6036651854781324), 0.55032188798424331)
+improvement rate in time
+(array(-0.7622168527162374), 0.45151252058244729)
+improvement: total change
+(array(1.375214887692212), 0.17861696954994363)

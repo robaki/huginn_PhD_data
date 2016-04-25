@@ -1,0 +1,42 @@
+mod2: improv 0.7170677958347487 std 0.1827464310703053; rate/cyc 0.6913721849735533 std 0.31009685648721314; rate/time 1.2300931818335201 std 1.4689536778064176
+mod4: improv 0.633762256557008 std 0.2010744939372485; rate/cyc 0.7078857475837974 std 0.3578296119947015; rate/time 0.27722461376189705 std 0.44404388525824995
+mod6: improv 0.5740075507090642 std 0.2302029586851263; rate/cyc 0.7473808871198632 std 0.4126890627652578; rate/time 0.16754468300531788 std 0.2687645473077601
+
+
+Influence of additional working models for the error level: 0
+is there a difference in performance?
+mod2_vs_mod4_perc_different: t-stats: 3.0103628203393535; p-val: 0.00240852207394
+mod2_vs_mod4_rate_cyc_different: t-stats: -0.3583369518912465; p-val: 0.36112176203
+mod2_vs_mod4_rate_time_different: t-stats: 4.6254749721405926; p-val: 2.47285035536e-05
+
+mod4_vs_mod6_perc_different: t-stats: 2.936814200360062; p-val: 0.0029144351589
+mod4_vs_mod6_rate_cyc_different: t-stats: -1.2475594231630671; p-val: 0.110237721952
+mod4_vs_mod6_rate_time_different: t-stats: 2.8291569307680082; p-val: 0.0038376341869
+
+mod2_vs_mod6_perc_different: t-stats: 3.94391571568275; p-val: 0.000183541130238
+mod2_vs_mod6_rate_cyc_different: t-stats: -1.1866454660795984; p-val: 0.121679993061
+mod2_vs_mod6_rate_time_different: t-stats: 4.907631418209028; p-val: 1.0599681915e-05
+
+
+
+is using more working models better?
+mod2_mod4_perc successes: 11 / 36
+mod2_mod4_perc_binom: 0.0144083598279
+mod2_mod4_rate_cyc successes: 21 / 36
+mod2_mod4_rate_cyc_binom: 0.20251612307
+mod2_mod4_rate_time successes: 0 / 36
+mod2_mod4_rate_time_binom: 1.45519152284e-11
+
+mod4_mod6_perc successes: 11 / 36
+mod4_mod6_perc_binom: 0.0144083598279
+mod4_mod6_rate_cyc successes: 17 / 36
+mod4_mod6_rate_cyc_binom: 0.433969700214
+mod4_mod6_rate_time successes: 2 / 36
+mod4_mod6_rate_time_binom: 9.70612745732e-09
+
+mod2_mod6_perc successes: 8 / 36
+mod2_mod6_perc_binom: 0.000596621481236
+mod2_mod6_rate_cyc successes: 18 / 36
+mod2_mod6_rate_cyc_binom: 0.5
+mod2_mod6_rate_time successes: 0 / 36
+mod2_mod6_rate_time_binom: 1.45519152284e-11

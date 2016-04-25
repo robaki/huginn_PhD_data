@@ -1,0 +1,21 @@
+comparing improvement rates between mod versions: err_lvl: 0; TC_by_TC: False
+2 vs 4: 
+ttest: (array(1.8917087399244816), 0.066827429740282746) 
+binom: 0.242984954035 
+ succ: 14/36
+mod2 rates trimmed: avg 0.7748802304933953; std 0.4121424826824318
+mod4 rates trimmed: avg 0.7122871378135428; std 0.36235529479282175
+
+4 vs 6: 
+ttest: (array(-0.11915256993845086), 0.90583577163745033) 
+binom: 1.0 
+ succ: 18/36
+mod4 rates trimmed: avg 0.7461259763464801; std 0.468312364664595
+mod6 rates trimmed: avg 0.7505532293998551; std: 0.41101573644230394
+
+2 vs 6: 
+ttest: (array(2.097291122365921), 0.043259686008869314) 
+binom: 0.61771931703 
+ succ: 16/36
+mod2 rates trimmed: avg 0.8310125463096718; std 0.5067094867056343
+mod6 rates trimmed: avg 0.759954654596648; std: 0.40984449697010983

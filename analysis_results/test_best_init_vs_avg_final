@@ -1,0 +1,88 @@
+not_crashed/first_batch_all_exps
+successes: 33/33
+binom. test:
+2.32830643654e-10
+avg difference: 19.734848484848484; std.dev: 8.19851690993546
+ttest rel:
+(array(13.61675077834074), 7.3131535291662966e-15)
+
+not_crashed/first_batch_two_factor
+successes: 32/33
+binom. test:
+7.91624188423e-09
+avg difference: 19.53787878787879; std.dev: 12.409997376889269
+ttest rel:
+(array(8.905959388283383), 3.5647127457065542e-10)
+
+not_crashed/err0_mod2
+successes: 36/36
+binom. test:
+2.91038304567e-11
+avg difference: 21.833333333333332; std.dev: 11.071735786828247
+ttest rel:
+(array(11.666440061248187), 1.2959394771395929e-13)
+
+not_crashed/err0_mod4
+successes: 36/36
+binom. test:
+2.91038304567e-11
+avg difference: 16.65277777777778; std.dev: 7.076780738251253
+ttest rel:
+(array(13.92146593027083), 7.7844707266785954e-16)
+
+not_crashed/err0_mod6
+successes: 36/36
+binom. test:
+2.91038304567e-11
+avg difference: 13.583333333333334; std.dev: 5.9169274851224545
+ttest rel:
+(array(13.58138728630597), 1.6218390858503926e-15)
+
+not_crashed/err30_mod2
+successes: 34/36
+binom. test:
+1.94122549146e-08
+avg difference: 11.805555555555555; std.dev: 9.540322159842415
+ttest rel:
+(array(7.3207809317453085), 1.4798170169750747e-08)
+
+not_crashed/err30_mod4
+successes: 35/36
+binom. test:
+1.0768417269e-09
+avg difference: 8.875; std.dev: 7.089335692119224
+ttest rel:
+(array(7.406223989840949), 1.1513477845923195e-08)
+
+not_crashed/err30_mod6
+successes: 33/36
+binom. test:
+2.27213604376e-07
+avg difference: 6.714814814814815; std.dev: 6.296258169819206
+ttest rel:
+(array(6.309363291931916), 3.0275338649452836e-07)
+
+not_crashed/err60_mod2
+successes: 28/36
+binom. test:
+0.00119324296247
+avg difference: 7.861111111111111; std.dev: 8.206206248179138
+ttest rel:
+(array(5.6672912074886685), 2.1199760152932199e-06)
+
+not_crashed/err60_mod4
+successes: 27/36
+binom. test:
+0.00393317302223
+avg difference: 4.777777777777778; std.dev: 5.893669443239316
+ttest rel:
+(array(4.795945003613595), 2.966998099513219e-05)
+
+not_crashed/err60_mod6
+successes: 29/36
+binom. test:
+0.000312551157549
+avg difference: 4.592592592592593; std.dev: 5.265254798514357
+ttest rel:
+(array(5.160271483293915), 9.8795847731383628e-06)
+

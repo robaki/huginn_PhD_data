@@ -1,0 +1,5590 @@
+folder: not_crashed/err0_mod2; test_case: tc01;
+total improvement
+mean: 0.9166666666666666
+population std dev: 0.0
+
+
+improvement rate (# of cycles)
+mean: 0.580019493177388
+population std dev: 0.0249600222212575
+
+
+improvement rate (time)
+mean: 1.4439129657765266
+population std dev: 0.2705170200911778
+
+
+improvement during development
+mean: 0.8611111111111112
+population std dev: 0.03928371006591927
+improvement during random drift
+
+
+mean: 0.05555555555555555
+population std dev: 0.039283710065919304
+
+
+improvement before first drift
+mean: 0.7638888888888888
+population std dev: 0.11947673982003647
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.9166666666666666
+population std dev: 0.0
+
+
+improvement up to final drift
+mean: 0.9166666666666666
+population std dev: 0.0
+improvement during the last drift
+mean: 0.0
+population std dev: 0.0
+
+
+
+folder: not_crashed/err0_mod2; test_case: tc02;
+total improvement
+mean: 0.39166666666666666
+population std dev: 0.15855247992033708
+
+
+improvement rate (# of cycles)
+mean: 0.7657342657342657
+population std dev: 0.16785644735024527
+
+
+improvement rate (time)
+mean: 4.432348980762412
+population std dev: 0.42574720358414797
+
+
+improvement during development
+mean: 0.13333333333333333
+population std dev: 0.031180478223116172
+improvement during random drift
+
+
+mean: 0.25833333333333336
+population std dev: 0.14766704288891125
+
+
+improvement before first drift
+mean: 0.041666666666666664
+population std dev: 0.023570226039551584
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.4083333333333334
+population std dev: 0.031180478223116183
+
+
+improvement up to final drift
+mean: 0.4083333333333334
+population std dev: 0.031180478223116183
+improvement during the last drift
+mean: -0.016666666666666677
+population std dev: 0.1896634446123507
+
+
+
+folder: not_crashed/err0_mod2; test_case: tc03;
+total improvement
+mean: 0.6583333333333333
+population std dev: 0.10474837574980446
+
+
+improvement rate (# of cycles)
+mean: 0.364230540701129
+population std dev: 0.057486439098065834
+
+
+improvement rate (time)
+mean: 0.6869927449903582
+population std dev: 0.15046239320826738
+
+
+improvement during development
+mean: 0.7083333333333334
+population std dev: 0.17834112132527244
+improvement during random drift
+
+
+mean: -0.049999999999999996
+population std dev: 0.07359800721939873
+
+
+improvement before first drift
+mean: 0.4666666666666666
+population std dev: 0.11242281302693367
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.6083333333333333
+population std dev: 0.10474837574980446
+
+
+improvement up to final drift
+mean: 0.6083333333333333
+population std dev: 0.10474837574980446
+improvement during the last drift
+mean: 0.05000000000000001
+population std dev: 0.0
+
+
+
+folder: not_crashed/err0_mod2; test_case: tc04;
+total improvement
+mean: 0.8405797101449276
+population std dev: 0.054226918648897664
+
+
+improvement rate (# of cycles)
+mean: 0.5055770055770056
+population std dev: 0.026565139297819375
+
+
+improvement rate (time)
+mean: 0.6258742475555757
+population std dev: 0.1823176701666021
+
+
+improvement during development
+mean: 0.6884057971014492
+population std dev: 0.027113459324448832
+improvement during random drift
+
+
+mean: 0.15217391304347824
+population std dev: 0.06399826714730324
+
+
+improvement before first drift
+mean: 0.13768115942028986
+population std dev: 0.020495848730044862
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.8260869565217391
+population std dev: 0.06148754619013458
+
+
+improvement up to final drift
+mean: 0.8260869565217391
+population std dev: 0.06148754619013458
+improvement during the last drift
+mean: 0.014492753623188406
+population std dev: 0.04099169746008971
+
+
+
+folder: not_crashed/err0_mod2; test_case: tc05;
+total improvement
+mean: 0.5392156862745098
+population std dev: 0.1467316622264291
+
+
+improvement rate (# of cycles)
+mean: 0.4078021978021978
+population std dev: 0.09514279537354453
+
+
+improvement rate (time)
+mean: 2.597237641343079
+population std dev: 0.9090978365671675
+
+
+improvement during development
+mean: 0.7156862745098039
+population std dev: 0.25678040889625087
+improvement during random drift
+
+
+mean: -0.17647058823529413
+population std dev: 0.11004874666982181
+
+
+improvement before first drift
+mean: 0.2549019607843137
+population std dev: 0.11348859708617867
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.6372549019607843
+population std dev: 0.17701441260066458
+
+
+improvement up to final drift
+mean: 0.6372549019607843
+population std dev: 0.17701441260066458
+improvement during the last drift
+mean: -0.09803921568627451
+population std dev: 0.03668291555660727
+
+
+
+folder: not_crashed/err0_mod2; test_case: tc06;
+total improvement
+mean: 0.8472222222222222
+population std dev: 0.039283710065919325
+
+
+improvement rate (# of cycles)
+mean: 0.6163419913419913
+population std dev: 0.0546884934767214
+
+
+improvement rate (time)
+mean: 0.44279331787619086
+population std dev: 0.09284955499353462
+
+
+improvement during development
+mean: 0.875
+population std dev: 0.02946278254943948
+improvement during random drift
+
+
+mean: -0.027777777777777776
+population std dev: 0.009820927516479826
+
+
+improvement before first drift
+mean: 0.5833333333333334
+population std dev: 0.05892556509887896
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.7916666666666666
+population std dev: 0.0340206908719886
+
+
+improvement up to final drift
+mean: 0.7916666666666666
+population std dev: 0.0340206908719886
+improvement during the last drift
+mean: 0.05555555555555555
+population std dev: 0.05196746370519363
+
+
+
+folder: not_crashed/err0_mod2; test_case: tc07;
+total improvement
+mean: 0.9494949494949495
+population std dev: 0.00714249273925805
+
+
+improvement rate (# of cycles)
+mean: 1.448135198135198
+population std dev: 0.22023500736371007
+
+
+improvement rate (time)
+mean: 3.598057234990243
+population std dev: 0.4536718981127796
+
+
+improvement during development
+mean: 0.7070707070707071
+population std dev: 0.061025484715124104
+improvement during random drift
+
+
+mean: 0.24242424242424243
+population std dev: 0.05392463763652177
+
+
+improvement before first drift
+mean: 0.2474747474747475
+population std dev: 0.00714249273925805
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.9444444444444445
+population std dev: 0.025752623806024198
+
+
+improvement up to final drift
+mean: 0.9444444444444445
+population std dev: 0.025752623806024198
+improvement during the last drift
+mean: 0.005050505050505051
+population std dev: 0.028569970957032224
+
+
+
+folder: not_crashed/err0_mod2; test_case: tc08;
+total improvement
+mean: 0.8739837398373984
+population std dev: 0.0600196059359081
+
+
+improvement rate (# of cycles)
+mean: 0.595491149632651
+population std dev: 0.031318747161258674
+
+
+improvement rate (time)
+mean: 0.2484790774699206
+population std dev: 0.02874616145574002
+
+
+improvement during development
+mean: 0.8861788617886179
+population std dev: 0.025058593508003994
+improvement during random drift
+
+
+mean: -0.012195121951219514
+population std dev: 0.03590146693629206
+
+
+improvement before first drift
+mean: 0.5
+population std dev: 0.09125993626277905
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.8902439024390244
+population std dev: 0.062183164799911976
+
+
+improvement up to final drift
+mean: 0.8902439024390244
+population std dev: 0.062183164799911976
+improvement during the last drift
+mean: -0.04878048780487805
+population std dev: 0.0
+
+
+
+folder: not_crashed/err0_mod2; test_case: tc09;
+total improvement
+mean: 0.6868686868686869
+population std dev: 0.007142492739258102
+
+
+improvement rate (# of cycles)
+mean: 0.49609126984126983
+population std dev: 0.04499559936210598
+
+
+improvement rate (time)
+mean: 0.2172652762729936
+population std dev: 0.05701463303622514
+
+
+improvement during development
+mean: 0.712121212121212
+population std dev: 0.0214274782177742
+improvement during random drift
+
+
+mean: -0.025252525252525252
+population std dev: 0.028569970957032224
+
+
+improvement before first drift
+mean: 0.31313131313131315
+population std dev: 0.03779451905832265
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.6969696969696969
+population std dev: 0.012371160317086792
+
+
+improvement up to final drift
+mean: 0.6969696969696969
+population std dev: 0.012371160317086792
+improvement during the last drift
+mean: -0.030303030303030304
+population std dev: 0.0
+
+
+
+folder: not_crashed/err0_mod2; test_case: tc10;
+total improvement
+mean: 0.7534722222222223
+population std dev: 0.13563906239322648
+
+
+improvement rate (# of cycles)
+mean: 0.9814954051796158
+population std dev: 0.08108368744519533
+
+
+improvement rate (time)
+mean: 0.12460733427878261
+population std dev: 0.018568931734794705
+
+
+improvement during development
+mean: 0.6701388888888888
+population std dev: 0.09329881140655835
+improvement during random drift
+
+
+mean: 0.08333333333333333
+population std dev: 0.05577214723683684
+
+
+improvement before first drift
+mean: 0.40972222222222227
+population std dev: 0.017704928866641604
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.7534722222222223
+population std dev: 0.13563906239322648
+
+
+improvement up to final drift
+mean: 0.7534722222222223
+population std dev: 0.13563906239322648
+improvement during the last drift
+mean: N/A
+population std dev: N/A
+
+
+
+folder: not_crashed/err0_mod2; test_case: tc11;
+total improvement
+mean: 0.5228758169934641
+population std dev: 0.15693081311820875
+
+
+improvement rate (# of cycles)
+mean: 0.5926615236981393
+population std dev: 0.15901567862456842
+
+
+improvement rate (time)
+mean: 0.19831059571168952
+population std dev: 0.10692583000519257
+
+
+improvement during development
+mean: 0.3758169934640523
+population std dev: 0.016663462462721504
+improvement during random drift
+
+
+mean: 0.14705882352941177
+population std dev: 0.14673166222642905
+
+
+improvement before first drift
+mean: 0.10784313725490197
+population std dev: 0.02401460532140371
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.5228758169934641
+population std dev: 0.15693081311820875
+
+
+improvement up to final drift
+mean: 0.5228758169934641
+population std dev: 0.15693081311820875
+improvement during the last drift
+mean: N/A
+population std dev: N/A
+
+
+
+folder: not_crashed/err0_mod2; test_case: tc12;
+total improvement
+mean: 0.6084656084656085
+population std dev: 0.03325345261898556
+
+
+improvement rate (# of cycles)
+mean: 0.9428861788617886
+population std dev: 0.05472049047173385
+
+
+improvement rate (time)
+mean: 0.14523876497447122
+population std dev: 0.13220639712473453
+
+
+improvement during development
+mean: 0.5925925925925926
+population std dev: 0.009898564515274943
+improvement during random drift
+
+
+mean: 0.015873015873015872
+population std dev: 0.023364446736317053
+
+
+improvement before first drift
+mean: 0.44973544973544977
+population std dev: 0.0884563677105846
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.6084656084656085
+population std dev: 0.03325345261898556
+
+
+improvement up to final drift
+mean: 0.6084656084656085
+population std dev: 0.03325345261898556
+improvement during the last drift
+mean: N/A
+population std dev: N/A
+
+
+
+folder: not_crashed/err0_mod4; test_case: tc01;
+total improvement
+mean: 0.9012345679012346
+population std dev: 0.03491885339192827
+
+
+improvement rate (# of cycles)
+mean: 0.610171261487051
+population std dev: 0.046224816731702034
+
+
+improvement rate (time)
+mean: 0.7825224668016766
+population std dev: 0.21735234105563392
+
+
+improvement during development
+mean: 0.9259259259259259
+population std dev: 0.0604812282168686
+improvement during random drift
+
+
+mean: -0.07407407407407407
+population std dev: 0.0
+
+
+improvement before first drift
+mean: 0.8148148148148149
+population std dev: 0.10903408476947961
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.9012345679012346
+population std dev: 0.03491885339192827
+
+
+improvement up to final drift
+mean: 0.9012345679012346
+population std dev: 0.03491885339192827
+improvement during the last drift
+mean: N/A
+population std dev: N/A
+
+
+
+folder: not_crashed/err0_mod4; test_case: tc02;
+total improvement
+mean: 0.33771929824561403
+population std dev: 0.052995815673660414
+
+
+improvement rate (# of cycles)
+mean: 0.4317460317460317
+population std dev: 0.09884696810755722
+
+
+improvement rate (time)
+mean: 1.4638074774032874
+population std dev: 0.4088965749169947
+
+
+improvement during development
+mean: 0.16228070175438594
+population std dev: 0.022364120673652566
+improvement during random drift
+
+
+mean: 0.17543859649122806
+population std dev: 0.06907024450887553
+
+
+improvement before first drift
+mean: 0.10526315789473684
+population std dev: 0.03873579327336775
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.3245614035087719
+population std dev: 0.06907024450887553
+
+
+improvement up to final drift
+mean: 0.3245614035087719
+population std dev: 0.06907024450887553
+improvement during the last drift
+mean: 0.013157894736842105
+population std dev: 0.06534940537610237
+
+
+
+folder: not_crashed/err0_mod4; test_case: tc03;
+total improvement
+mean: 0.5598290598290598
+population std dev: 0.05268729917067501
+
+
+improvement rate (# of cycles)
+mean: 0.3767025089605735
+population std dev: 0.02516023085925169
+
+
+improvement rate (time)
+mean: 0.23701127017819812
+population std dev: 0.03821797533093099
+
+
+improvement during development
+mean: 0.547008547008547
+population std dev: 0.015989988832367262
+improvement during random drift
+
+
+mean: 0.012820512820512818
+population std dev: 0.037742567804819854
+
+
+improvement before first drift
+mean: 0.46581196581196577
+population std dev: 0.03963084827134917
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.6111111111111112
+population std dev: 0.04358136336404088
+
+
+improvement up to final drift
+mean: 0.6111111111111112
+population std dev: 0.04358136336404088
+improvement during the last drift
+mean: -0.05128205128205129
+population std dev: 0.02093580976737759
+
+
+
+folder: not_crashed/err0_mod4; test_case: tc04;
+total improvement
+mean: 0.8439716312056738
+population std dev: 0.02005976684217159
+
+
+improvement rate (# of cycles)
+mean: 0.5963274198568316
+population std dev: 0.045734395008878465
+
+
+improvement rate (time)
+mean: 0.08007178053101101
+population std dev: 0.013306353073984428
+
+
+improvement during development
+mean: 0.74822695035461
+population std dev: 0.021859624124003427
+improvement during random drift
+
+
+mean: 0.09574468085106382
+population std dev: 0.03131830094442498
+
+
+improvement before first drift
+mean: 0.6560283687943262
+population std dev: 0.08436437768347745
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.8226950354609929
+population std dev: 0.03616325896165097
+
+
+improvement up to final drift
+mean: 0.8226950354609929
+population std dev: 0.03616325896165097
+improvement during the last drift
+mean: 0.02127659574468085
+population std dev: 0.04596269998870822
+
+
+
+folder: not_crashed/err0_mod4; test_case: tc05;
+total improvement
+mean: 0.6715686274509803
+population std dev: 0.0909178283872128
+
+
+improvement rate (# of cycles)
+mean: 0.3879310344827586
+population std dev: 0.06451133425472313
+
+
+improvement rate (time)
+mean: 0.4254353296399221
+population std dev: 0.20136140931631494
+
+
+improvement during development
+mean: 0.7598039215686274
+population std dev: 0.030217715700828297
+improvement during random drift
+
+
+mean: -0.08823529411764706
+population std dev: 0.06685383184796989
+
+
+improvement before first drift
+mean: 0.3137254901960784
+population std dev: 0.12027298182730684
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.6617647058823529
+population std dev: 0.11004874666982183
+
+
+improvement up to final drift
+mean: 0.6617647058823529
+population std dev: 0.11004874666982183
+improvement during the last drift
+mean: 0.009803921568627446
+population std dev: 0.14673166222642905
+
+
+
+folder: not_crashed/err0_mod4; test_case: tc06;
+total improvement
+mean: 0.8402777777777778
+population std dev: 0.04280843057617347
+
+
+improvement rate (# of cycles)
+mean: 0.5628968253968254
+population std dev: 0.09126164559476312
+
+
+improvement rate (time)
+mean: 0.09626901907114592
+population std dev: 0.04701192379626348
+
+
+improvement during development
+mean: 0.8472222222222223
+population std dev: 0.06383602885711888
+improvement during random drift
+
+
+mean: -0.006944444444444441
+population std dev: 0.09094306148408884
+
+
+improvement before first drift
+mean: 0.7291666666666666
+population std dev: 0.12266334536566453
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.8055555555555555
+population std dev: 0.03540985773328321
+
+
+improvement up to final drift
+mean: 0.8055555555555555
+population std dev: 0.03540985773328321
+improvement during the last drift
+mean: 0.03472222222222222
+population std dev: 0.025983731852596816
+
+
+
+folder: not_crashed/err0_mod4; test_case: tc07;
+total improvement
+mean: 0.9296875
+population std dev: 0.019136638615493577
+
+
+improvement rate (# of cycles)
+mean: 1.1786902844873859
+population std dev: 0.08448318273576434
+
+
+improvement rate (time)
+mean: 0.12834309795568488
+population std dev: 0.04069846948388927
+
+
+improvement during development
+mean: 0.8307291666666666
+population std dev: 0.03897559777889522
+improvement during random drift
+
+
+mean: 0.09895833333333333
+population std dev: 0.03737682316251907
+
+
+improvement before first drift
+mean: 0.6979166666666666
+population std dev: 0.09764756905860768
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.9166666666666666
+population std dev: 0.01327869664998121
+
+
+improvement up to final drift
+mean: 0.9166666666666666
+population std dev: 0.01327869664998121
+improvement during the last drift
+mean: 0.013020833333333334
+population std dev: 0.01327869664998121
+
+
+
+folder: not_crashed/err0_mod4; test_case: tc08;
+total improvement
+mean: 0.623015873015873
+population std dev: 0.027635691026158957
+
+
+improvement rate (# of cycles)
+mean: 0.6650106837606837
+population std dev: 0.021785573892361933
+
+
+improvement rate (time)
+mean: 0.01770822363441955
+population std dev: 0.0006366679550838137
+
+
+improvement during development
+mean: 0.623015873015873
+population std dev: 0.027635691026158957
+improvement during random drift
+
+
+mean: N/A
+population std dev: N/A
+
+
+improvement before first drift
+mean: 0.623015873015873
+population std dev: 0.027635691026158957
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.623015873015873
+population std dev: 0.027635691026158957
+
+
+improvement up to final drift
+mean: 0.623015873015873
+population std dev: 0.027635691026158957
+improvement during the last drift
+mean: N/A
+population std dev: N/A
+
+
+
+folder: not_crashed/err0_mod4; test_case: tc09;
+total improvement
+mean: 0.6517412935323383
+population std dev: 0.024625609295053873
+
+
+improvement rate (# of cycles)
+mean: 0.5328252032520325
+population std dev: 0.020187030342880555
+
+
+improvement rate (time)
+mean: 0.04785028779957992
+population std dev: 0.007570557004646458
+
+
+improvement during development
+mean: 0.5497512437810945
+population std dev: 0.007035888370015366
+improvement during random drift
+
+
+mean: 0.10199004975124377
+population std dev: 0.019587084263710974
+
+
+improvement before first drift
+mean: 0.30597014925373134
+population std dev: 0.09017198487757143
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.6467661691542288
+population std dev: 0.024625609295053873
+
+
+improvement up to final drift
+mean: 0.6467661691542288
+population std dev: 0.024625609295053873
+improvement during the last drift
+mean: 0.007462686567164178
+population std dev: 0.029850746268656712
+
+
+
+folder: not_crashed/err0_mod4; test_case: tc10;
+total improvement
+mean: 0.3481848184818482
+population std dev: 0.09920223343359168
+
+
+improvement rate (# of cycles)
+mean: 0.8779106858054226
+population std dev: 0.275344134401997
+
+
+improvement rate (time)
+mean: 0.011724908844889461
+population std dev: 0.003433616090125063
+
+
+improvement during development
+mean: 0.3481848184818482
+population std dev: 0.09920223343359168
+improvement during random drift
+
+
+mean: N/A
+population std dev: N/A
+
+
+improvement before first drift
+mean: 0.3481848184818482
+population std dev: 0.09920223343359168
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.3481848184818482
+population std dev: 0.09920223343359168
+
+
+improvement up to final drift
+mean: 0.3481848184818482
+population std dev: 0.09920223343359168
+improvement during the last drift
+mean: N/A
+population std dev: N/A
+
+
+
+folder: not_crashed/err0_mod4; test_case: tc11;
+total improvement
+mean: 0.558252427184466
+population std dev: 0.04359933199128632
+
+
+improvement rate (# of cycles)
+mean: 0.6733821733821733
+population std dev: 0.10471731734434919
+
+
+improvement rate (time)
+mean: 0.01717137631754682
+population std dev: 0.00018914833390865397
+
+
+improvement during development
+mean: 0.4304207119741101
+population std dev: 0.0332405155083724
+improvement during random drift
+
+
+mean: 0.127831715210356
+population std dev: 0.053226162470545395
+
+
+improvement before first drift
+mean: 0.42880258899676377
+population std dev: 0.03552507831731417
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.4886731391585761
+population std dev: 0.04923988367217778
+
+
+improvement up to final drift
+mean: 0.4886731391585761
+population std dev: 0.04923988367217778
+improvement during the last drift
+mean: 0.10436893203883495
+population std dev: 0.050970873786407765
+
+
+
+folder: not_crashed/err0_mod4; test_case: tc12;
+total improvement
+mean: 0.4549180327868852
+population std dev: 0.015334661421204696
+
+
+improvement rate (# of cycles)
+mean: 1.6010348583877996
+population std dev: 0.03612265150756255
+
+
+improvement rate (time)
+mean: 0.018780126965403085
+population std dev: 0.0004580631106726534
+
+
+improvement during development
+mean: 0.4549180327868852
+population std dev: 0.015334661421204696
+improvement during random drift
+
+
+mean: N/A
+population std dev: N/A
+
+
+improvement before first drift
+mean: 0.4549180327868852
+population std dev: 0.015334661421204696
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.4549180327868852
+population std dev: 0.015334661421204696
+
+
+improvement up to final drift
+mean: 0.4549180327868852
+population std dev: 0.015334661421204696
+improvement during the last drift
+mean: N/A
+population std dev: N/A
+
+
+
+folder: not_crashed/err0_mod6; test_case: tc01;
+total improvement
+mean: 0.8000000000000002
+population std dev: 0.09842509842514753
+
+
+improvement rate (# of cycles)
+mean: 0.5584811702458762
+population std dev: 0.1158341069797077
+
+
+improvement rate (time)
+mean: 0.42082996417017826
+population std dev: 0.06626703450083751
+
+
+improvement during development
+mean: 0.7958333333333334
+population std dev: 0.10424996669330666
+improvement during random drift
+
+
+mean: 0.012500000000000022
+population std dev: 0.0
+
+
+improvement before first drift
+mean: 0.7958333333333334
+population std dev: 0.10424996669330666
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.7958333333333334
+population std dev: 0.10424996669330666
+
+
+improvement up to final drift
+mean: 0.7958333333333334
+population std dev: 0.10424996669330666
+improvement during the last drift
+mean: 0.012500000000000022
+population std dev: 0.0
+
+
+
+folder: not_crashed/err0_mod6; test_case: tc02;
+total improvement
+mean: 0.2528735632183908
+population std dev: 0.09862645000994547
+
+
+improvement rate (# of cycles)
+mean: 0.5211767399267399
+population std dev: 0.09526317786014689
+
+
+improvement rate (time)
+mean: 0.9468716782094514
+population std dev: 0.012108791951635394
+
+
+improvement during development
+mean: 0.16666666666666655
+population std dev: 0.04242765247193509
+improvement during random drift
+
+
+mean: 0.08620689655172424
+population std dev: 0.11327818014038524
+
+
+improvement before first drift
+mean: 0.13505747126436773
+population std dev: 0.02930470984823438
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.3879310344827586
+population std dev: 0.08117498213692836
+
+
+improvement up to final drift
+mean: 0.3879310344827586
+population std dev: 0.08117498213692836
+improvement during the last drift
+mean: -0.13505747126436782
+population std dev: 0.0937327955764373
+
+
+
+folder: not_crashed/err0_mod6; test_case: tc03;
+total improvement
+mean: 0.6867816091954023
+population std dev: 0.1006157551724805
+
+
+improvement rate (# of cycles)
+mean: 0.4787056001213707
+population std dev: 0.11620269838338851
+
+
+improvement rate (time)
+mean: 0.1397496997333371
+population std dev: 0.025493852033258935
+
+
+improvement during development
+mean: 0.6810344827586206
+population std dev: 0.15243433574568796
+improvement during random drift
+
+
+mean: 0.00574712643678165
+population std dev: 0.09987440917806188
+
+
+improvement before first drift
+mean: 0.6580459770114943
+population std dev: 0.13324164505022568
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.7011494252873561
+population std dev: 0.1446518729730256
+
+
+improvement up to final drift
+mean: 0.7011494252873561
+population std dev: 0.1446518729730256
+improvement during the last drift
+mean: -0.014367816091954004
+population std dev: 0.046866397788218675
+
+
+
+folder: not_crashed/err0_mod6; test_case: tc04;
+total improvement
+mean: 0.8444444444444444
+population std dev: 0.015713484026367668
+
+
+improvement rate (# of cycles)
+mean: 0.5492647058823529
+population std dev: 0.05448054005938374
+
+
+improvement rate (time)
+mean: 0.022285336634819422
+population std dev: 0.006041604500773018
+
+
+improvement during development
+mean: 0.8009259259259259
+population std dev: 0.0065472850109865284
+improvement during random drift
+
+
+mean: 0.04351851851851852
+population std dev: 0.013671132463179072
+
+
+improvement before first drift
+mean: 0.8009259259259259
+population std dev: 0.0065472850109865284
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.8009259259259259
+population std dev: 0.0065472850109865284
+
+
+improvement up to final drift
+mean: 0.8009259259259259
+population std dev: 0.0065472850109865284
+improvement during the last drift
+mean: 0.04351851851851852
+population std dev: 0.013671132463179072
+
+
+
+folder: not_crashed/err0_mod6; test_case: tc05;
+total improvement
+mean: 0.6564625850340136
+population std dev: 0.1511980324550535
+
+
+improvement rate (# of cycles)
+mean: 0.44697408871321914
+population std dev: 0.11159802698561366
+
+
+improvement rate (time)
+mean: 0.20648604147264785
+population std dev: 0.10005107010423901
+
+
+improvement during development
+mean: 0.7482993197278911
+population std dev: 0.09656509909236997
+improvement during random drift
+
+
+mean: -0.09183673469387758
+population std dev: 0.0794783771805981
+
+
+improvement before first drift
+mean: 0.5034013605442177
+population std dev: 0.07741365086218399
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.6326530612244898
+population std dev: 0.14237040500990714
+
+
+improvement up to final drift
+mean: 0.6326530612244898
+population std dev: 0.14237040500990714
+improvement during the last drift
+mean: 0.023809523809523777
+population std dev: 0.15027702064200357
+
+
+
+folder: not_crashed/err0_mod6; test_case: tc06;
+total improvement
+mean: 0.852112676056338
+population std dev: 0.02987775131774146
+
+
+improvement rate (# of cycles)
+mean: 0.6597974822112753
+population std dev: 0.030405786874825026
+
+
+improvement rate (time)
+mean: 0.028627333775288918
+population std dev: 0.00869969148317144
+
+
+improvement during development
+mean: 0.8075117370892019
+population std dev: 0.01756646660457248
+improvement during random drift
+
+
+mean: 0.04460093896713615
+population std dev: 0.020193251800569547
+
+
+improvement before first drift
+mean: 0.8075117370892019
+population std dev: 0.01756646660457248
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.8075117370892019
+population std dev: 0.01756646660457248
+
+
+improvement up to final drift
+mean: 0.8075117370892019
+population std dev: 0.01756646660457248
+improvement during the last drift
+mean: 0.04460093896713615
+population std dev: 0.020193251800569547
+
+
+
+folder: not_crashed/err0_mod6; test_case: tc07;
+total improvement
+mean: 0.9298245614035089
+population std dev: 0.008945648269461119
+
+
+improvement rate (# of cycles)
+mean: 1.3210978835978837
+population std dev: 0.08489472193607336
+
+
+improvement rate (time)
+mean: 0.1791178405953037
+population std dev: 0.13450117576864462
+
+
+improvement during development
+mean: 0.8228070175438598
+population std dev: 0.047335921274498365
+improvement during random drift
+
+
+mean: 0.10701754385964912
+population std dev: 0.04554650872191989
+
+
+improvement before first drift
+mean: 0.6052631578947368
+population std dev: 0.16004385363930507
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.9140350877192983
+population std dev: 0.004962152850431954
+
+
+improvement up to final drift
+mean: 0.9140350877192983
+population std dev: 0.004962152850431954
+improvement during the last drift
+mean: 0.01578947368421053
+population std dev: 0.004297350425935399
+
+
+
+folder: not_crashed/err0_mod6; test_case: tc08;
+total improvement
+mean: 0.4457671957671958
+population std dev: 0.05906643799409025
+
+
+improvement rate (# of cycles)
+mean: 0.6785849952516619
+population std dev: 0.09641256974737161
+
+
+improvement rate (time)
+mean: 0.012698435754762163
+population std dev: 0.0017668728813276322
+
+
+improvement during development
+mean: 0.4457671957671958
+population std dev: 0.05906643799409025
+improvement during random drift
+
+
+mean: N/A
+population std dev: N/A
+
+
+improvement before first drift
+mean: 0.4457671957671958
+population std dev: 0.05906643799409025
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.4457671957671958
+population std dev: 0.05906643799409025
+
+
+improvement up to final drift
+mean: 0.4457671957671958
+population std dev: 0.05906643799409025
+improvement during the last drift
+mean: N/A
+population std dev: N/A
+
+
+
+folder: not_crashed/err0_mod6; test_case: tc09;
+total improvement
+mean: 0.49673202614379086
+population std dev: 0.03496884731868085
+
+
+improvement rate (# of cycles)
+mean: 0.42889042889042894
+population std dev: 0.05596250434085889
+
+
+improvement rate (time)
+mean: 0.02056775232174427
+population std dev: 0.007808011452732915
+
+
+improvement during development
+mean: 0.4901960784313726
+population std dev: 0.07791907854618538
+improvement during random drift
+
+
+mean: 0.006535947712418311
+population std dev: 0.050043767421939694
+
+
+improvement before first drift
+mean: 0.43464052287581695
+population std dev: 0.04390532301485099
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.47385620915032683
+population std dev: 0.05284627983266739
+
+
+improvement up to final drift
+mean: 0.47385620915032683
+population std dev: 0.05284627983266739
+improvement during the last drift
+mean: 0.06862745098039212
+population std dev: 0.0
+
+
+
+folder: not_crashed/err0_mod6; test_case: tc10;
+total improvement
+mean: 0.2755555555555555
+population std dev: 0.03695175366292421
+
+
+improvement rate (# of cycles)
+mean: 1.1297591297591296
+population std dev: 0.20767371756002928
+
+
+improvement rate (time)
+mean: 0.009033910131133053
+population std dev: 0.0012557078748776072
+
+
+improvement during development
+mean: 0.2755555555555555
+population std dev: 0.03695175366292421
+improvement during random drift
+
+
+mean: N/A
+population std dev: N/A
+
+
+improvement before first drift
+mean: 0.2755555555555555
+population std dev: 0.03695175366292421
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.2755555555555555
+population std dev: 0.03695175366292421
+
+
+improvement up to final drift
+mean: 0.2755555555555555
+population std dev: 0.03695175366292421
+improvement during the last drift
+mean: N/A
+population std dev: N/A
+
+
+
+folder: not_crashed/err0_mod6; test_case: tc11;
+total improvement
+mean: 0.31316348195329086
+population std dev: 0.059995206585752865
+
+
+improvement rate (# of cycles)
+mean: 0.4745550745550746
+population std dev: 0.09879522725012635
+
+
+improvement rate (time)
+mean: 0.010843334161341983
+population std dev: 0.002041417443449413
+
+
+improvement during development
+mean: 0.31316348195329086
+population std dev: 0.059995206585752865
+improvement during random drift
+
+
+mean: N/A
+population std dev: N/A
+
+
+improvement before first drift
+mean: 0.31316348195329086
+population std dev: 0.059995206585752865
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.31316348195329086
+population std dev: 0.059995206585752865
+
+
+improvement up to final drift
+mean: 0.31316348195329086
+population std dev: 0.059995206585752865
+improvement during the last drift
+mean: N/A
+population std dev: N/A
+
+
+
+folder: not_crashed/err0_mod6; test_case: tc12;
+total improvement
+mean: 0.3397085610200364
+population std dev: 0.04573726604549986
+
+
+improvement rate (# of cycles)
+mean: 1.7212833462833463
+population std dev: 0.13500114435582
+
+
+improvement rate (time)
+mean: 0.013424869103806627
+population std dev: 0.0017875543972749714
+
+
+improvement during development
+mean: 0.3397085610200364
+population std dev: 0.04573726604549986
+improvement during random drift
+
+
+mean: N/A
+population std dev: N/A
+
+
+improvement before first drift
+mean: 0.3397085610200364
+population std dev: 0.04573726604549986
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.3397085610200364
+population std dev: 0.04573726604549986
+
+
+improvement up to final drift
+mean: 0.3397085610200364
+population std dev: 0.04573726604549986
+improvement during the last drift
+mean: N/A
+population std dev: N/A
+
+
+
+folder: not_crashed/err30_mod2; test_case: tc01;
+total improvement
+mean: 0.1527777777777778
+population std dev: 0.10393492741038726
+
+
+improvement rate (# of cycles)
+mean: 0.11684726522187822
+population std dev: 0.03384635973911525
+
+
+improvement rate (time)
+mean: 0.333608204914176
+population std dev: 0.13640711818709397
+
+
+improvement during development
+mean: 0.1527777777777778
+population std dev: 0.10936122047238626
+improvement during random drift
+
+
+mean: -2.3129646346357427e-18
+population std dev: 0.09001028747788695
+
+
+improvement before first drift
+mean: 0.09722222222222222
+population std dev: 0.0856168611523469
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.18055555555555555
+population std dev: 0.05196746370519363
+
+
+improvement up to final drift
+mean: 0.18055555555555555
+population std dev: 0.05196746370519363
+improvement during the last drift
+mean: -0.027777777777777776
+population std dev: 0.05196746370519363
+
+
+
+folder: not_crashed/err30_mod2; test_case: tc02;
+total improvement
+mean: 0.26666666666666666
+population std dev: 0.031180478223116176
+
+
+improvement rate (# of cycles)
+mean: 0.8023088023088024
+population std dev: 0.6150674104790959
+
+
+improvement rate (time)
+mean: 2.7384468419955503
+population std dev: 1.1043995668553748
+
+
+improvement during development
+mean: 0.08333333333333333
+population std dev: 0.07168604389202188
+improvement during random drift
+
+
+mean: 0.18333333333333335
+population std dev: 0.06561673228343178
+
+
+improvement before first drift
+mean: 0.06666666666666667
+population std dev: 0.03118047822311618
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.31666666666666665
+population std dev: 0.13123346456686352
+
+
+improvement up to final drift
+mean: 0.31666666666666665
+population std dev: 0.13123346456686352
+improvement during the last drift
+mean: -0.049999999999999996
+population std dev: 0.13385315336840842
+
+
+
+folder: not_crashed/err30_mod2; test_case: tc03;
+total improvement
+mean: 0.39166666666666666
+population std dev: 0.21441133883781013
+
+
+improvement rate (# of cycles)
+mean: 0.36445796709488393
+population std dev: 0.09390959594505907
+
+
+improvement rate (time)
+mean: 0.757170468350616
+population std dev: 0.24622834738089378
+
+
+improvement during development
+mean: 0.3833333333333333
+population std dev: 0.2756305901423538
+improvement during random drift
+
+
+mean: 0.008333333333333333
+population std dev: 0.06236095644623236
+
+
+improvement before first drift
+mean: 0.18333333333333335
+population std dev: 0.13123346456686352
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.39166666666666666
+population std dev: 0.196143371598997
+
+
+improvement up to final drift
+mean: 0.39166666666666666
+population std dev: 0.196143371598997
+improvement during the last drift
+mean: 0.0
+population std dev: 0.040824829046386304
+
+
+
+folder: not_crashed/err30_mod2; test_case: tc04;
+total improvement
+mean: 0.15217391304347827
+population std dev: 0.09392377823779509
+
+
+improvement rate (# of cycles)
+mean: 0.16999050332383667
+population std dev: 0.10881259886799441
+
+
+improvement rate (time)
+mean: 0.18827273118505705
+population std dev: 0.11747788100321475
+
+
+improvement during development
+mean: 0.14492753623188406
+population std dev: 0.020495848730044855
+improvement during random drift
+
+
+mean: 0.007246376811594203
+population std dev: 0.08198339492017942
+
+
+improvement before first drift
+mean: 0.07971014492753624
+population std dev: 0.03694941676516511
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.1956521739130435
+population std dev: 0.12424947970639309
+
+
+improvement up to final drift
+mean: 0.1956521739130435
+population std dev: 0.12424947970639309
+improvement during the last drift
+mean: -0.043478260869565216
+population std dev: 0.04696188911889754
+
+
+
+folder: not_crashed/err30_mod2; test_case: tc05;
+total improvement
+mean: 0.2647058823529412
+population std dev: 0.14997116216449366
+
+
+improvement rate (# of cycles)
+mean: 0.1326797385620915
+population std dev: 0.12402466685626583
+
+
+improvement rate (time)
+mean: 0.5348202107065535
+population std dev: 0.4726122752097302
+
+
+improvement during development
+mean: 0.4901960784313726
+population std dev: 0.2179030467734595
+improvement during random drift
+
+
+mean: -0.22549019607843138
+population std dev: 0.07336583111321454
+
+
+improvement before first drift
+mean: 0.2058823529411765
+population std dev: 0.0240146053214037
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.1568627450980392
+population std dev: 0.13226213297286316
+
+
+improvement up to final drift
+mean: 0.1568627450980392
+population std dev: 0.13226213297286316
+improvement during the last drift
+mean: 0.10784313725490197
+population std dev: 0.04999038738816456
+
+
+
+folder: not_crashed/err30_mod2; test_case: tc06;
+total improvement
+mean: 0.2638888888888889
+population std dev: 0.03540985773328323
+
+
+improvement rate (# of cycles)
+mean: 0.47895473979065306
+population std dev: 0.09444892174647875
+
+
+improvement rate (time)
+mean: 0.5277528692382926
+population std dev: 0.1142337288096518
+
+
+improvement during development
+mean: 0.2569444444444445
+population std dev: 0.07081971546656646
+improvement during random drift
+
+
+mean: 0.006944444444444441
+population std dev: 0.08038775626937657
+
+
+improvement before first drift
+mean: 0.2569444444444445
+population std dev: 0.03540985773328323
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.3263888888888889
+population std dev: 0.039283710065919325
+
+
+improvement up to final drift
+mean: 0.3263888888888889
+population std dev: 0.039283710065919325
+improvement during the last drift
+mean: -0.0625
+population std dev: 0.07414637675021743
+
+
+
+folder: not_crashed/err30_mod2; test_case: tc07;
+total improvement
+mean: 0.5959595959595959
+population std dev: 0.11692764548272955
+
+
+improvement rate (# of cycles)
+mean: 1.1191935107376283
+population std dev: 0.08723549167965299
+
+
+improvement rate (time)
+mean: 2.583202219137914
+population std dev: 1.3614105161395695
+
+
+improvement during development
+mean: 0.38383838383838387
+population std dev: 0.06813503819814162
+improvement during random drift
+
+
+mean: 0.21212121212121213
+population std dev: 0.053924637636521784
+
+
+improvement before first drift
+mean: 0.25252525252525254
+population std dev: 0.03571246369629028
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.6161616161616161
+population std dev: 0.12391761764025552
+
+
+improvement up to final drift
+mean: 0.6161616161616161
+population std dev: 0.12391761764025552
+improvement during the last drift
+mean: -0.020202020202020204
+population std dev: 0.007142492739258056
+
+
+
+folder: not_crashed/err30_mod2; test_case: tc08;
+total improvement
+mean: 0.45528455284552843
+population std dev: 0.11540706964697876
+
+
+improvement rate (# of cycles)
+mean: 0.6620160884866767
+population std dev: 0.1531787682991629
+
+
+improvement rate (time)
+mean: 0.2518135907663912
+population std dev: 0.1198414477740636
+
+
+improvement during development
+mean: 0.3130081300813008
+population std dev: 0.09567969346292537
+improvement during random drift
+
+
+mean: 0.14227642276422764
+population std dev: 0.03496880189854726
+
+
+improvement before first drift
+mean: 0.25203252032520324
+population std dev: 0.032008162089478924
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.4512195121951219
+population std dev: 0.11739454535116789
+
+
+improvement up to final drift
+mean: 0.4512195121951219
+population std dev: 0.11739454535116789
+improvement during the last drift
+mean: 0.0040650406504065045
+population std dev: 0.01149767123880565
+
+
+
+folder: not_crashed/err30_mod2; test_case: tc09;
+total improvement
+mean: 0.23232323232323235
+population std dev: 0.12391761764025554
+
+
+improvement rate (# of cycles)
+mean: 0.31432748538011696
+population std dev: 0.11969915074766531
+
+
+improvement rate (time)
+mean: 0.21644953497429595
+population std dev: 0.04447162292937027
+
+
+improvement during development
+mean: 0.25252525252525254
+population std dev: 0.051505247612048326
+improvement during random drift
+
+
+mean: -0.020202020202020204
+population std dev: 0.08049180530560215
+
+
+improvement before first drift
+mean: 0.1616161616161616
+population std dev: 0.08237124459747519
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.2474747474747475
+population std dev: 0.08949517750843107
+
+
+improvement up to final drift
+mean: 0.2474747474747475
+population std dev: 0.08949517750843107
+improvement during the last drift
+mean: -0.015151515151515152
+population std dev: 0.037113480951260276
+
+
+
+folder: not_crashed/err30_mod2; test_case: tc10;
+total improvement
+mean: 0.53125
+population std dev: 0.03707318837510874
+
+
+improvement rate (# of cycles)
+mean: 0.8733737526840976
+population std dev: 0.11510062041121089
+
+
+improvement rate (time)
+mean: 0.10081841004869019
+population std dev: 0.015197181237079766
+
+
+improvement during development
+mean: 0.46875
+population std dev: 0.04252586358998574
+improvement during random drift
+
+
+mean: 0.0625
+population std dev: 0.07559562867040709
+
+
+improvement before first drift
+mean: 0.3854166666666667
+population std dev: 0.07414637675021744
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.5381944444444445
+population std dev: 0.04019387813468828
+
+
+improvement up to final drift
+mean: 0.5381944444444445
+population std dev: 0.04019387813468828
+improvement during the last drift
+mean: -0.010416666666666666
+population std dev: 0.0
+
+
+
+folder: not_crashed/err30_mod2; test_case: tc11;
+total improvement
+mean: 0.3137254901960784
+population std dev: 0.09605842128561484
+
+
+improvement rate (# of cycles)
+mean: 0.569630192502533
+population std dev: 0.2404853759667893
+
+
+improvement rate (time)
+mean: 0.2116628953240873
+population std dev: 0.08364991890339456
+
+
+improvement during development
+mean: 0.16013071895424835
+population std dev: 0.08997320194729545
+improvement during random drift
+
+
+mean: 0.15359477124183007
+population std dev: 0.10926963070131039
+
+
+improvement before first drift
+mean: 0.05228758169934641
+population std dev: 0.032351290642521784
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.37254901960784315
+population std dev: 0.09836547021759746
+
+
+improvement up to final drift
+mean: 0.37254901960784315
+population std dev: 0.09836547021759746
+improvement during the last drift
+mean: -0.05882352941176471
+population std dev: 0.03489241258833762
+
+
+
+folder: not_crashed/err30_mod2; test_case: tc12;
+total improvement
+mean: 0.4682539682539682
+population std dev: 0.10667642938442304
+
+
+improvement rate (# of cycles)
+mean: 0.9583076765188835
+population std dev: 0.19033502914552625
+
+
+improvement rate (time)
+mean: 0.10330288337247778
+population std dev: 0.09501071502810454
+
+
+improvement during development
+mean: 0.3968253968253968
+population std dev: 0.05611958580845616
+improvement during random drift
+
+
+mean: 0.10714285714285714
+population std dev: 0.003968253968253968
+
+
+improvement before first drift
+mean: 0.3253968253968254
+population std dev: 0.011223917161691244
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.4523809523809524
+population std dev: 0.0980621851473579
+
+
+improvement up to final drift
+mean: 0.4523809523809524
+population std dev: 0.0980621851473579
+improvement during the last drift
+mean: 0.047619047619047616
+population std dev: 0.0
+
+
+
+folder: not_crashed/err30_mod4; test_case: tc01;
+total improvement
+mean: 0.3333333333333333
+population std dev: 0.0302406141084343
+
+
+improvement rate (# of cycles)
+mean: 0.23734190645955353
+population std dev: 0.0014647601574429485
+
+
+improvement rate (time)
+mean: 0.20406687045757363
+population std dev: 0.1688896775418438
+
+
+improvement during development
+mean: 0.3395061728395062
+population std dev: 0.057244558614171014
+improvement during random drift
+
+
+mean: -0.009259259259259259
+population std dev: 0.046296296296296294
+
+
+improvement before first drift
+mean: 0.345679012345679
+population std dev: 0.04860498687661611
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.35185185185185186
+population std dev: 0.0400045722123942
+
+
+improvement up to final drift
+mean: 0.35185185185185186
+population std dev: 0.0400045722123942
+improvement during the last drift
+mean: -0.027777777777777776
+population std dev: 0.027777777777777776
+
+
+
+folder: not_crashed/err30_mod4; test_case: tc02;
+total improvement
+mean: 0.30701754385964913
+population std dev: 0.04341883744127923
+
+
+improvement rate (# of cycles)
+mean: 0.6995726495726496
+population std dev: 0.21916786555278478
+
+
+improvement rate (time)
+mean: 1.020492416702101
+population std dev: 0.2324712217131205
+
+
+improvement during development
+mean: 0.10526315789473684
+population std dev: 0.021486752129677
+improvement during random drift
+
+
+mean: 0.20175438596491227
+population std dev: 0.040673765331121506
+
+
+improvement before first drift
+mean: 0.11842105263157894
+population std dev: 0.028424301308806403
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.37280701754385964
+population std dev: 0.04341883744127924
+
+
+improvement up to final drift
+mean: 0.37280701754385964
+population std dev: 0.04341883744127924
+improvement during the last drift
+mean: -0.06578947368421052
+population std dev: 0.0537168803241925
+
+
+
+folder: not_crashed/err30_mod4; test_case: tc03;
+total improvement
+mean: 0.2606837606837607
+population std dev: 0.15253477177414312
+
+
+improvement rate (# of cycles)
+mean: 0.367965367965368
+population std dev: 0.04571149801286336
+
+
+improvement rate (time)
+mean: 0.339691981960424
+population std dev: 0.02750347726485091
+
+
+improvement during development
+mean: 0.3376068376068376
+population std dev: 0.12400528314997356
+improvement during random drift
+
+
+mean: -0.07692307692307693
+population std dev: 0.03140371465106639
+
+
+improvement before first drift
+mean: 0.2692307692307692
+population std dev: 0.07903094875601253
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.29914529914529914
+population std dev: 0.11904605365114633
+
+
+improvement up to final drift
+mean: 0.29914529914529914
+population std dev: 0.11904605365114633
+improvement during the last drift
+mean: -0.038461538461538464
+population std dev: 0.037742567804819854
+
+
+
+folder: not_crashed/err30_mod4; test_case: tc04;
+total improvement
+mean: 0.2127659574468085
+population std dev: 0.07817520455690993
+
+
+improvement rate (# of cycles)
+mean: 0.21104589854589853
+population std dev: 0.04795277160725043
+
+
+improvement rate (time)
+mean: 0.0192156355457042
+population std dev: 0.008672355068779522
+
+
+improvement during development
+mean: 0.28368794326241137
+population std dev: 0.08255635976470081
+improvement during random drift
+
+
+mean: -0.07092198581560283
+population std dev: 0.005014941710542891
+
+
+improvement before first drift
+mean: 0.2588652482269504
+population std dev: 0.07588983886181808
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.25886524822695034
+population std dev: 0.05516435881597178
+
+
+improvement up to final drift
+mean: 0.25886524822695034
+population std dev: 0.05516435881597178
+improvement during the last drift
+mean: -0.04609929078014185
+population std dev: 0.04104906703117101
+
+
+
+folder: not_crashed/err30_mod4; test_case: tc05;
+total improvement
+mean: -0.014705882352941171
+population std dev: 0.29215028285786937
+
+
+improvement rate (# of cycles)
+mean: 0.03501810080757448
+population std dev: 0.2760465948940765
+
+
+improvement rate (time)
+mean: 0.04278033117011152
+population std dev: 0.6173010204066688
+
+
+improvement during development
+mean: 0.338235294117647
+population std dev: 0.2797984939770654
+improvement during random drift
+
+
+mean: -0.35294117647058826
+population std dev: 0.05233861888250641
+
+
+improvement before first drift
+mean: 0.20098039215686272
+population std dev: 0.027729677693590093
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.04411764705882354
+population std dev: 0.31288183131829306
+
+
+improvement up to final drift
+mean: 0.04411764705882354
+population std dev: 0.31288183131829306
+improvement during the last drift
+mean: -0.05882352941176471
+population std dev: 0.020797258270192576
+
+
+
+folder: not_crashed/err30_mod4; test_case: tc06;
+total improvement
+mean: 0.3611111111111111
+population std dev: 0.09407095266766713
+
+
+improvement rate (# of cycles)
+mean: 0.5962622549019608
+population std dev: 0.2257145523086508
+
+
+improvement rate (time)
+mean: 0.21642037123863808
+population std dev: 0.08346425893260209
+
+
+improvement during development
+mean: 0.2708333333333333
+population std dev: 0.03897559777889522
+improvement during random drift
+
+
+mean: 0.09027777777777778
+population std dev: 0.07081971546656646
+
+
+improvement before first drift
+mean: 0.25347222222222227
+population std dev: 0.029869184955009127
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.3298611111111111
+population std dev: 0.06383602885711888
+
+
+improvement up to final drift
+mean: 0.3298611111111111
+population std dev: 0.06383602885711888
+improvement during the last drift
+mean: 0.03125
+population std dev: 0.04419417382415922
+
+
+
+folder: not_crashed/err30_mod4; test_case: tc07;
+total improvement
+mean: 0.6848958333333334
+population std dev: 0.05425173608333245
+
+
+improvement rate (# of cycles)
+mean: 1.0373787409700723
+population std dev: 0.14542459806109204
+
+
+improvement rate (time)
+mean: 0.14561744926407014
+population std dev: 0.05189231320813564
+
+
+improvement during development
+mean: 0.5286458333333334
+population std dev: 0.05425173608333245
+improvement during random drift
+
+
+mean: 0.15625
+population std dev: 0.019136638615493577
+
+
+improvement before first drift
+mean: 0.4713541666666667
+population std dev: 0.0802658073303252
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.6458333333333334
+population std dev: 0.04525559165880929
+
+
+improvement up to final drift
+mean: 0.6458333333333334
+population std dev: 0.04525559165880929
+improvement during the last drift
+mean: 0.0390625
+population std dev: 0.01275775907699572
+
+
+
+folder: not_crashed/err30_mod4; test_case: tc08;
+total improvement
+mean: 0.33730158730158727
+population std dev: 0.0661640158751312
+
+
+improvement rate (# of cycles)
+mean: 0.5492511520737328
+population std dev: 0.15555253150115556
+
+
+improvement rate (time)
+mean: 0.03032637429776484
+population std dev: 0.027351811602655207
+
+
+improvement during development
+mean: 0.2619047619047619
+population std dev: 0.06429306248420495
+improvement during random drift
+
+
+mean: 0.07539682539682539
+population std dev: 0.09724246630827656
+
+
+improvement before first drift
+mean: 0.22817460317460317
+population std dev: 0.08752676587346339
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.3511904761904762
+population std dev: 0.06318128304797878
+
+
+improvement up to final drift
+mean: 0.3511904761904762
+population std dev: 0.06318128304797878
+improvement during the last drift
+mean: -0.020833333333333332
+population std dev: 0.020833333333333332
+
+
+
+folder: not_crashed/err30_mod4; test_case: tc09;
+total improvement
+mean: 0.22139303482587067
+population std dev: 0.12312804647526947
+
+
+improvement rate (# of cycles)
+mean: 0.34968800322061194
+population std dev: 0.17469548338252608
+
+
+improvement rate (time)
+mean: 0.027864656403396634
+population std dev: 0.015030183052095714
+
+
+improvement during development
+mean: 0.24875621890547261
+population std dev: 0.17280949684535726
+improvement during random drift
+
+
+mean: -0.02736318407960199
+population std dev: 0.05073651257306253
+
+
+improvement before first drift
+mean: 0.1791044776119403
+population std dev: 0.13773998208862814
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.2537313432835821
+population std dev: 0.12171273455447829
+
+
+improvement up to final drift
+mean: 0.2537313432835821
+population std dev: 0.12171273455447829
+improvement during the last drift
+mean: -0.03233830845771144
+population std dev: 0.009307605439736173
+
+
+
+folder: not_crashed/err30_mod4; test_case: tc10;
+total improvement
+mean: 0.35313531353135313
+population std dev: 0.0771529354954519
+
+
+improvement rate (# of cycles)
+mean: 0.8822727272727273
+population std dev: 0.17677591611389357
+
+
+improvement rate (time)
+mean: 0.01907484515877009
+population std dev: 0.006337729015830431
+
+
+improvement during development
+mean: 0.3102310231023102
+population std dev: 0.08904777269460093
+improvement during random drift
+
+
+mean: 0.06435643564356436
+population std dev: 0.019801980198019806
+
+
+improvement before first drift
+mean: 0.3085808580858086
+population std dev: 0.08306741220233149
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.35313531353135313
+population std dev: 0.0771529354954519
+
+
+improvement up to final drift
+mean: 0.35313531353135313
+population std dev: 0.0771529354954519
+improvement during the last drift
+mean: N/A
+population std dev: N/A
+
+
+
+folder: not_crashed/err30_mod4; test_case: tc11;
+total improvement
+mean: 0.3559870550161812
+population std dev: 0.06157377860983963
+
+
+improvement rate (# of cycles)
+mean: 0.5199712643678162
+population std dev: 0.1171696943909005
+
+
+improvement rate (time)
+mean: 0.02450224355324546
+population std dev: 0.013400528388958492
+
+
+improvement during development
+mean: 0.22815533980582525
+population std dev: 0.03386480507517208
+improvement during random drift
+
+
+mean: 0.19174757281553398
+population std dev: 0.036407766990291274
+
+
+improvement before first drift
+mean: 0.18770226537216828
+population std dev: 0.06157377860983963
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.31715210355987056
+population std dev: 0.04507569021742434
+
+
+improvement up to final drift
+mean: 0.31715210355987056
+population std dev: 0.04507569021742434
+improvement during the last drift
+mean: 0.11650485436893204
+population std dev: 0.0
+
+
+
+folder: not_crashed/err30_mod4; test_case: tc12;
+total improvement
+mean: 0.39344262295081966
+population std dev: 0.026135418674465824
+
+
+improvement rate (# of cycles)
+mean: 1.5034109477124182
+population std dev: 0.1178198657382558
+
+
+improvement rate (time)
+mean: 0.016495597382927985
+population std dev: 0.0012563736617121047
+
+
+improvement during development
+mean: 0.39344262295081966
+population std dev: 0.026135418674465824
+improvement during random drift
+
+
+mean: N/A
+population std dev: N/A
+
+
+improvement before first drift
+mean: 0.39344262295081966
+population std dev: 0.026135418674465824
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.39344262295081966
+population std dev: 0.026135418674465824
+
+
+improvement up to final drift
+mean: 0.39344262295081966
+population std dev: 0.026135418674465824
+improvement during the last drift
+mean: N/A
+population std dev: N/A
+
+
+
+folder: not_crashed/err30_mod6; test_case: tc01;
+total improvement
+mean: 0.2766666666666667
+population std dev: 0.06328945848682507
+
+
+improvement rate (# of cycles)
+mean: 0.2383345240930381
+population std dev: 0.03508173625333491
+
+
+improvement rate (time)
+mean: 0.11267031672793076
+population std dev: 0.08894820672132622
+
+
+improvement during development
+mean: 0.25166666666666676
+population std dev: 0.09533566430716726
+improvement during random drift
+
+
+mean: 0.0375
+population std dev: 0.0375
+
+
+improvement before first drift
+mean: 0.2433333333333334
+population std dev: 0.10648421896642193
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.28916666666666674
+population std dev: 0.04900396809329717
+
+
+improvement up to final drift
+mean: 0.28916666666666674
+population std dev: 0.04900396809329717
+improvement during the last drift
+mean: -0.01875
+population std dev: 0.01875
+
+
+
+folder: not_crashed/err30_mod6; test_case: tc02;
+total improvement
+mean: 0.5028735632183907
+population std dev: 0.04525291881615984
+
+
+improvement rate (# of cycles)
+mean: 0.5152116402116401
+population std dev: 0.03184233628891724
+
+
+improvement rate (time)
+mean: 0.43725369932009633
+population std dev: 0.19201713436432255
+
+
+improvement during development
+mean: 0.10632183908045971
+population std dev: 0.05860941969646872
+improvement during random drift
+
+
+mean: 0.39655172413793105
+population std dev: 0.024382992454708402
+
+
+improvement before first drift
+mean: 0.12356321839080457
+population std dev: 0.004063832075784784
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.278735632183908
+population std dev: 0.11378729812197315
+
+
+improvement up to final drift
+mean: 0.278735632183908
+population std dev: 0.11378729812197315
+improvement during the last drift
+mean: 0.22413793103448273
+population std dev: 0.13429105109825196
+
+
+
+folder: not_crashed/err30_mod6; test_case: tc03;
+total improvement
+mean: 0.3218390804597701
+population std dev: 0.12695817261134784
+
+
+improvement rate (# of cycles)
+mean: 0.3035714285714285
+population std dev: 0.021184679071490735
+
+
+improvement rate (time)
+mean: 0.09592503080769989
+population std dev: 0.027302934163223352
+
+
+improvement during development
+mean: 0.3505747126436782
+population std dev: 0.09862645000994548
+improvement during random drift
+
+
+mean: -0.028735632183908066
+population std dev: 0.0284468245304933
+
+
+improvement before first drift
+mean: 0.32758620689655166
+population std dev: 0.10927099621742266
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.2959770114942528
+population std dev: 0.08856916670932441
+
+
+improvement up to final drift
+mean: 0.2959770114942528
+population std dev: 0.08856916670932441
+improvement during the last drift
+mean: 0.03879310344827586
+population std dev: 0.04741379310344825
+
+
+
+folder: not_crashed/err30_mod6; test_case: tc04;
+total improvement
+mean: 0.19212962962962968
+population std dev: 0.0032736425054933033
+
+
+improvement rate (# of cycles)
+mean: 0.18052608311229001
+population std dev: 0.055594240304002104
+
+
+improvement rate (time)
+mean: 0.01028669023101449
+population std dev: 0.003863868824111622
+
+
+improvement during development
+mean: 0.125
+population std dev: 0.06000685831859129
+improvement during random drift
+
+
+mean: 0.06712962962962966
+population std dev: 0.056795574751783755
+
+
+improvement before first drift
+mean: 0.12268518518518517
+population std dev: 0.07550697421435226
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.19444444444444445
+population std dev: 0.07500857289823908
+
+
+improvement up to final drift
+mean: 0.19444444444444445
+population std dev: 0.07500857289823908
+improvement during the last drift
+mean: -0.0023148148148147813
+population std dev: 0.07719135185431973
+
+
+
+folder: not_crashed/err30_mod6; test_case: tc05;
+total improvement
+mean: -0.023809523809523874
+population std dev: 0.03937359490744971
+
+
+improvement rate (# of cycles)
+mean: -0.0160401002506266
+population std dev: 0.0632099214178946
+
+
+improvement rate (time)
+mean: 0.010321679649087149
+population std dev: 0.030966370489099188
+
+
+improvement during development
+mean: 0.15646258503401358
+population std dev: 0.056712013607255383
+improvement during random drift
+
+
+mean: -0.18027210884353742
+population std dev: 0.08345472208425375
+
+
+improvement before first drift
+mean: 0.2176870748299319
+population std dev: 0.061413163555332585
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: -0.017006802721088485
+population std dev: 0.07467516462619096
+
+
+improvement up to final drift
+mean: -0.017006802721088485
+population std dev: 0.07467516462619096
+improvement during the last drift
+mean: -0.006802721088435386
+population std dev: 0.07513851032100174
+
+
+
+folder: not_crashed/err30_mod6; test_case: tc06;
+total improvement
+mean: 0.29342723004694843
+population std dev: 0.05217396894575788
+
+
+improvement rate (# of cycles)
+mean: 0.42295551670551673
+population std dev: 0.06876745810691502
+
+
+improvement rate (time)
+mean: 0.03602681273267851
+population std dev: 0.023180608063228098
+
+
+improvement during development
+mean: 0.25352112676056343
+population std dev: 0.07988121843743448
+improvement during random drift
+
+
+mean: 0.059859154929577475
+population std dev: 0.02464788732394365
+
+
+improvement before first drift
+mean: 0.25821596244131456
+population std dev: 0.0732605001611607
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.2934272300469484
+population std dev: 0.023939058749261874
+
+
+improvement up to final drift
+mean: 0.2934272300469484
+population std dev: 0.023939058749261874
+improvement during the last drift
+mean: 3.8163916471489756e-17
+population std dev: 0.035211267605633784
+
+
+
+folder: not_crashed/err30_mod6; test_case: tc07;
+total improvement
+mean: 0.5105263157894737
+population std dev: 0.10964561397894557
+
+
+improvement rate (# of cycles)
+mean: 0.9157329598506069
+population std dev: 0.12265412770555728
+
+
+improvement rate (time)
+mean: 0.09660416032339957
+population std dev: 0.03414164649599644
+
+
+improvement during development
+mean: 0.3789473684210527
+population std dev: 0.07100388191174757
+improvement during random drift
+
+
+mean: 0.13157894736842102
+population std dev: 0.06821832314113538
+
+
+improvement before first drift
+mean: 0.3649122807017544
+population std dev: 0.08043433955331687
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.46491228070175444
+population std dev: 0.08820915852615106
+
+
+improvement up to final drift
+mean: 0.46491228070175444
+population std dev: 0.08820915852615106
+improvement during the last drift
+mean: 0.04561403508771927
+population std dev: 0.0286131691759651
+
+
+
+folder: not_crashed/err30_mod6; test_case: tc08;
+total improvement
+mean: 0.33730158730158727
+population std dev: 0.07295546155099301
+
+
+improvement rate (# of cycles)
+mean: 0.632191480017567
+population std dev: 0.1255332084267776
+
+
+improvement rate (time)
+mean: 0.009271724410435346
+population std dev: 0.002324024025590676
+
+
+improvement during development
+mean: 0.33730158730158727
+population std dev: 0.07295546155099301
+improvement during random drift
+
+
+mean: N/A
+population std dev: N/A
+
+
+improvement before first drift
+mean: 0.33730158730158727
+population std dev: 0.07295546155099301
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.33730158730158727
+population std dev: 0.07295546155099301
+
+
+improvement up to final drift
+mean: 0.33730158730158727
+population std dev: 0.07295546155099301
+improvement during the last drift
+mean: N/A
+population std dev: N/A
+
+
+
+folder: not_crashed/err30_mod6; test_case: tc09;
+total improvement
+mean: 0.23366013071895422
+population std dev: 0.040488600305110665
+
+
+improvement rate (# of cycles)
+mean: 0.24043410293410292
+population std dev: 0.057632811070420766
+
+
+improvement rate (time)
+mean: 0.012015847735436076
+population std dev: 0.001919907270378943
+
+
+improvement during development
+mean: 0.17647058823529416
+population std dev: 0.06685383184796988
+improvement during random drift
+
+
+mean: 0.05718954248366009
+population std dev: 0.07073483928729857
+
+
+improvement before first drift
+mean: 0.16993464052287585
+population std dev: 0.049722627629748176
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.20915032679738563
+population std dev: 0.02345212433726685
+
+
+improvement up to final drift
+mean: 0.20915032679738563
+population std dev: 0.02345212433726685
+improvement during the last drift
+mean: 0.03676470588235294
+population std dev: 0.00735294117647059
+
+
+
+folder: not_crashed/err30_mod6; test_case: tc10;
+total improvement
+mean: 0.23444444444444446
+population std dev: 0.012862041003100243
+
+
+improvement rate (# of cycles)
+mean: 0.8015873015873017
+population std dev: 0.05695515910479104
+
+
+improvement rate (time)
+mean: 0.007878848843588734
+population std dev: 0.000700102763707908
+
+
+improvement during development
+mean: 0.23444444444444446
+population std dev: 0.012862041003100243
+improvement during random drift
+
+
+mean: N/A
+population std dev: N/A
+
+
+improvement before first drift
+mean: 0.23444444444444446
+population std dev: 0.012862041003100243
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.23444444444444446
+population std dev: 0.012862041003100243
+
+
+improvement up to final drift
+mean: 0.23444444444444446
+population std dev: 0.012862041003100243
+improvement during the last drift
+mean: N/A
+population std dev: N/A
+
+
+
+folder: not_crashed/err30_mod6; test_case: tc11;
+total improvement
+mean: 0.30891719745222934
+population std dev: 0.045113650447719277
+
+
+improvement rate (# of cycles)
+mean: 0.6608695652173914
+population std dev: 0.08655930028747615
+
+
+improvement rate (time)
+mean: 0.013573863806227507
+population std dev: 0.003370546892577523
+
+
+improvement during development
+mean: 0.19108280254777074
+population std dev: 0.05022028098732424
+improvement during random drift
+
+
+mean: 0.17675159235668791
+population std dev: 0.036624203821656
+
+
+improvement before first drift
+mean: 0.16242038216560514
+population std dev: 0.060593304428154283
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.30891719745222934
+population std dev: 0.045113650447719277
+
+
+improvement up to final drift
+mean: 0.30891719745222934
+population std dev: 0.045113650447719277
+improvement during the last drift
+mean: N/A
+population std dev: N/A
+
+
+
+folder: not_crashed/err30_mod6; test_case: tc12;
+total improvement
+mean: 0.3670309653916212
+population std dev: 0.011004595604366637
+
+
+improvement rate (# of cycles)
+mean: 1.8935786435786437
+population std dev: 0.24134010400088576
+
+
+improvement rate (time)
+mean: 0.014028524940072526
+population std dev: 0.0012464162804923557
+
+
+improvement during development
+mean: 0.3670309653916212
+population std dev: 0.011004595604366637
+improvement during random drift
+
+
+mean: N/A
+population std dev: N/A
+
+
+improvement before first drift
+mean: 0.3670309653916212
+population std dev: 0.011004595604366637
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.3670309653916212
+population std dev: 0.011004595604366637
+
+
+improvement up to final drift
+mean: 0.3670309653916212
+population std dev: 0.011004595604366637
+improvement during the last drift
+mean: N/A
+population std dev: N/A
+
+
+
+folder: not_crashed/err60_mod2; test_case: tc01;
+total improvement
+mean: 0.01388888888888889
+population std dev: 0.1288002568818848
+
+
+improvement rate (# of cycles)
+mean: 0.05555555555555556
+population std dev: 0.14163943093313291
+
+
+improvement rate (time)
+mean: 0.3115390827540498
+population std dev: 0.754559628586074
+
+
+improvement during development
+mean: 0.02777777777777778
+population std dev: 0.07081971546656646
+improvement during random drift
+
+
+mean: -0.013888888888888886
+population std dev: 0.11947673982003648
+
+
+improvement before first drift
+mean: 0.027777777777777776
+population std dev: 0.039283710065919304
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.05555555555555556
+population std dev: 0.14163943093313291
+
+
+improvement up to final drift
+mean: 0.05555555555555556
+population std dev: 0.14163943093313291
+improvement during the last drift
+mean: -0.041666666666666664
+population std dev: 0.14829275350043486
+
+
+
+folder: not_crashed/err60_mod2; test_case: tc02;
+total improvement
+mean: 0.3416666666666666
+population std dev: 0.22016408022704845
+
+
+improvement rate (# of cycles)
+mean: 1.1416666666666666
+population std dev: 0.421472287213393
+
+
+improvement rate (time)
+mean: 4.763646252321813
+population std dev: 0.9454504012326134
+
+
+improvement during development
+mean: -2.3129646346357427e-18
+population std dev: 0.07359800721939873
+improvement during random drift
+
+
+mean: 0.3416666666666666
+population std dev: 0.1662494778605
+
+
+improvement before first drift
+mean: 0.049999999999999996
+population std dev: 0.02041241452319315
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.30833333333333335
+population std dev: 0.04714045207910316
+
+
+improvement up to final drift
+mean: 0.30833333333333335
+population std dev: 0.04714045207910316
+improvement during the last drift
+mean: 0.03333333333333333
+population std dev: 0.24181030214244847
+
+
+
+folder: not_crashed/err60_mod2; test_case: tc03;
+total improvement
+mean: 0.19166666666666665
+population std dev: 0.05137011669140814
+
+
+improvement rate (# of cycles)
+mean: 0.3766414141414141
+population std dev: 0.1430382254340172
+
+
+improvement rate (time)
+mean: 0.9824207764888442
+population std dev: 0.34034218979906716
+
+
+improvement during development
+mean: 0.26666666666666666
+population std dev: 0.11606990230986765
+improvement during random drift
+
+
+mean: -0.075
+population std dev: 0.07071067811865475
+
+
+improvement before first drift
+mean: 0.21666666666666665
+population std dev: 0.09428090415820634
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.25833333333333336
+population std dev: 0.10474837574980446
+
+
+improvement up to final drift
+mean: 0.25833333333333336
+population std dev: 0.10474837574980446
+improvement during the last drift
+mean: -0.06666666666666667
+population std dev: 0.05892556509887896
+
+
+
+folder: not_crashed/err60_mod2; test_case: tc04;
+total improvement
+mean: 0.10144927536231885
+population std dev: 0.08933933337636198
+
+
+improvement rate (# of cycles)
+mean: 0.15533625730994152
+population std dev: 0.12919481535505487
+
+
+improvement rate (time)
+mean: 0.2575271564447907
+population std dev: 0.2442094227739825
+
+
+improvement during development
+mean: 0.021739130434782608
+population std dev: 0.03549985134468374
+improvement during random drift
+
+
+mean: 0.07971014492753624
+population std dev: 0.08198339492017942
+
+
+improvement before first drift
+mean: 0.07971014492753624
+population std dev: 0.05705802807254936
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.14492753623188406
+population std dev: 0.11818482920507313
+
+
+improvement up to final drift
+mean: 0.14492753623188406
+population std dev: 0.11818482920507313
+improvement during the last drift
+mean: -0.04347826086956522
+population std dev: 0.07737013226109647
+
+
+
+folder: not_crashed/err60_mod2; test_case: tc05;
+total improvement
+mean: -0.0392156862745098
+population std dev: 0.04999038738816456
+
+
+improvement rate (# of cycles)
+mean: -0.06904761904761904
+population std dev: 0.04891104424803366
+
+
+improvement rate (time)
+mean: -0.4087480356503442
+population std dev: 0.3245612852816262
+
+
+improvement during development
+mean: 0.09803921568627451
+population std dev: 0.0554593553871802
+improvement during random drift
+
+
+mean: -0.1372549019607843
+population std dev: 0.013864838846795053
+
+
+improvement before first drift
+mean: 0.16666666666666666
+population std dev: 0.055459355387180186
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: -0.05882352941176471
+population std dev: 0.04159451654038515
+
+
+improvement up to final drift
+mean: -0.05882352941176471
+population std dev: 0.04159451654038515
+improvement during the last drift
+mean: 0.0196078431372549
+population std dev: 0.01386483884679505
+
+
+
+folder: not_crashed/err60_mod2; test_case: tc06;
+total improvement
+mean: 0.2777777777777778
+population std dev: 0.035409857733283236
+
+
+improvement rate (# of cycles)
+mean: 0.5001831501831502
+population std dev: 0.21483461835054735
+
+
+improvement rate (time)
+mean: 0.6351573771302924
+population std dev: 0.04070381877993308
+
+
+improvement during development
+mean: 0.25
+population std dev: 0.06804138174397717
+improvement during random drift
+
+
+mean: 0.027777777777777776
+population std dev: 0.03540985773328322
+
+
+improvement before first drift
+mean: 0.22222222222222224
+population std dev: 0.05196746370519364
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.24305555555555555
+population std dev: 0.06874649261535878
+
+
+improvement up to final drift
+mean: 0.24305555555555555
+population std dev: 0.06874649261535878
+improvement during the last drift
+mean: 0.03472222222222222
+population std dev: 0.05468061023619313
+
+
+
+folder: not_crashed/err60_mod2; test_case: tc07;
+total improvement
+mean: 0.40404040404040403
+population std dev: 0.0823712445974752
+
+
+improvement rate (# of cycles)
+mean: 1.0952380952380951
+population std dev: 0.26024482017643524
+
+
+improvement rate (time)
+mean: 1.9496134606178694
+population std dev: 0.1511525435062355
+
+
+improvement during development
+mean: 0.16161616161616163
+population std dev: 0.05150524761204833
+improvement during random drift
+
+
+mean: 0.24242424242424243
+population std dev: 0.044604852860241656
+
+
+improvement before first drift
+mean: 0.1919191919191919
+population std dev: 0.00714249273925805
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.40404040404040403
+population std dev: 0.12453361622159546
+
+
+improvement up to final drift
+mean: 0.40404040404040403
+population std dev: 0.12453361622159546
+improvement during the last drift
+mean: 0.0
+population std dev: 0.05392463763652178
+
+
+
+folder: not_crashed/err60_mod2; test_case: tc08;
+total improvement
+mean: 0.3617886178861789
+population std dev: 0.058344309326859016
+
+
+improvement rate (# of cycles)
+mean: 0.4666646158894221
+population std dev: 0.1518161341434622
+
+
+improvement rate (time)
+mean: 0.3368591308514292
+population std dev: 0.17752509105003236
+
+
+improvement during development
+mean: 0.31300813008130085
+population std dev: 0.06083995750851937
+improvement during random drift
+
+
+mean: 0.048780487804878044
+population std dev: 0.009957275377167391
+
+
+improvement before first drift
+mean: 0.24796747967479674
+population std dev: 0.02299534247761131
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.34552845528455284
+population std dev: 0.06001960593590811
+
+
+improvement up to final drift
+mean: 0.34552845528455284
+population std dev: 0.06001960593590811
+improvement during the last drift
+mean: 0.016260162601626018
+population std dev: 0.015209989377129843
+
+
+
+folder: not_crashed/err60_mod2; test_case: tc09;
+total improvement
+mean: 0.020202020202020204
+population std dev: 0.05150524761204833
+
+
+improvement rate (# of cycles)
+mean: -0.014146772767462424
+population std dev: 0.04656832566671509
+
+
+improvement rate (time)
+mean: -0.012307947570827473
+population std dev: 0.03150132302006554
+
+
+improvement during development
+mean: 0.03535353535353535
+population std dev: 0.035712463696290275
+improvement during random drift
+
+
+mean: -0.015151515151515152
+population std dev: 0.037113480951260276
+
+
+improvement before first drift
+mean: 0.15151515151515152
+population std dev: 0.08112312325358087
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: -0.010101010101010102
+population std dev: 0.03779451905832264
+
+
+improvement up to final drift
+mean: -0.010101010101010102
+population std dev: 0.03779451905832264
+improvement during the last drift
+mean: 0.030303030303030304
+population std dev: 0.08920970572048331
+
+
+
+folder: not_crashed/err60_mod2; test_case: tc10;
+total improvement
+mean: 0.40277777777777773
+population std dev: 0.04280843057617344
+
+
+improvement rate (# of cycles)
+mean: 0.7180960801650457
+population std dev: 0.12051833070303375
+
+
+improvement rate (time)
+mean: 0.09753740584413634
+population std dev: 0.06056517274296455
+
+
+improvement during development
+mean: 0.3611111111111111
+population std dev: 0.06383602885711888
+improvement during random drift
+
+
+mean: 0.041666666666666664
+population std dev: 0.05953620902598002
+
+
+improvement before first drift
+mean: 0.34375
+population std dev: 0.05953620902598001
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.3888888888888889
+population std dev: 0.039283710065919325
+
+
+improvement up to final drift
+mean: 0.3888888888888889
+population std dev: 0.039283710065919325
+improvement during the last drift
+mean: 0.013888888888888888
+population std dev: 0.025983731852596816
+
+
+
+folder: not_crashed/err60_mod2; test_case: tc11;
+total improvement
+mean: 0.1895424836601307
+population std dev: 0.05790864427016127
+
+
+improvement rate (# of cycles)
+mean: 0.38645833333333335
+population std dev: 0.01915080865713567
+
+
+improvement rate (time)
+mean: 0.11847377343736777
+population std dev: 0.04991753533031232
+
+
+improvement during development
+mean: 0.09803921568627451
+population std dev: 0.032019473761871614
+improvement during random drift
+
+
+mean: 0.09150326797385622
+population std dev: 0.03609595103655968
+
+
+improvement before first drift
+mean: 0.05228758169934641
+population std dev: 0.02014514380055221
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.23202614379084965
+population std dev: 0.0046216129489316795
+
+
+improvement up to final drift
+mean: 0.23202614379084965
+population std dev: 0.0046216129489316795
+improvement during the last drift
+mean: -0.12745098039215685
+population std dev: 0.0
+
+
+
+folder: not_crashed/err60_mod2; test_case: tc12;
+total improvement
+mean: 0.4656084656084656
+population std dev: 0.04906676452643229
+
+
+improvement rate (# of cycles)
+mean: 1.059047619047619
+population std dev: 0.09545055666653612
+
+
+improvement rate (time)
+mean: 0.10629189974525315
+population std dev: 0.014611094386687038
+
+
+improvement during development
+mean: 0.3068783068783069
+population std dev: 0.05511287475132186
+improvement during random drift
+
+
+mean: 0.15873015873015872
+population std dev: 0.03240065797332246
+
+
+improvement before first drift
+mean: 0.29365079365079366
+population std dev: 0.03367175148507369
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.42063492063492064
+population std dev: 0.028246238761987588
+
+
+improvement up to final drift
+mean: 0.42063492063492064
+population std dev: 0.028246238761987588
+improvement during the last drift
+mean: 0.04497354497354497
+population std dev: 0.04314684240820129
+
+
+
+folder: not_crashed/err60_mod4; test_case: tc01;
+total improvement
+mean: 0.12345679012345678
+population std dev: 0.05310077325334955
+
+
+improvement rate (# of cycles)
+mean: 0.11805555555555557
+population std dev: 0.05973836991001824
+
+
+improvement rate (time)
+mean: 0.17073326892847918
+population std dev: 0.08288132866832938
+
+
+improvement during development
+mean: 0.0925925925925926
+population std dev: 0.040004572212394195
+improvement during random drift
+
+
+mean: 0.030864197530864196
+population std dev: 0.06295085819250351
+
+
+improvement before first drift
+mean: 0.10493827160493825
+population std dev: 0.05310077325334955
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.10493827160493825
+population std dev: 0.05310077325334955
+
+
+improvement up to final drift
+mean: 0.10493827160493825
+population std dev: 0.05310077325334955
+improvement during the last drift
+mean: 0.018518518518518517
+population std dev: 0.0604812282168686
+
+
+
+folder: not_crashed/err60_mod4; test_case: tc02;
+total improvement
+mean: 0.2631578947368421
+population std dev: 0.05981658639028885
+
+
+improvement rate (# of cycles)
+mean: 0.6101851851851852
+population std dev: 0.24917903612442147
+
+
+improvement rate (time)
+mean: 1.0149068605082656
+population std dev: 0.3897161231783709
+
+
+improvement during development
+mean: 0.048245614035087724
+population std dev: 0.027036903521793755
+improvement during random drift
+
+
+mean: 0.2149122807017544
+population std dev: 0.052995815673660414
+
+
+improvement before first drift
+mean: 0.05701754385964911
+population std dev: 0.02481076425215956
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.21052631578947367
+population std dev: 0.08793832305159395
+
+
+improvement up to final drift
+mean: 0.21052631578947367
+population std dev: 0.08793832305159395
+improvement during the last drift
+mean: 0.05263157894736842
+population std dev: 0.03873579327336775
+
+
+
+folder: not_crashed/err60_mod4; test_case: tc03;
+total improvement
+mean: 0.05128205128205129
+population std dev: 0.07548513560963971
+
+
+improvement rate (# of cycles)
+mean: 0.07828282828282827
+population std dev: 0.18703923421354754
+
+
+improvement rate (time)
+mean: 0.04879518970539518
+population std dev: 0.23762026847113354
+
+
+improvement during development
+mean: 0.02991452991452991
+population std dev: 0.10485336877252392
+improvement during random drift
+
+
+mean: 0.021367521367521364
+population std dev: 0.03021823851224562
+
+
+improvement before first drift
+mean: 0.05128205128205129
+population std dev: 0.09593993299420363
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.05128205128205129
+population std dev: 0.11656565552979364
+
+
+improvement up to final drift
+mean: 0.05128205128205129
+population std dev: 0.11656565552979364
+improvement during the last drift
+mean: 0.0
+population std dev: 0.041871619534755176
+
+
+
+folder: not_crashed/err60_mod4; test_case: tc04;
+total improvement
+mean: 0.08865248226950355
+population std dev: 0.027922013737630532
+
+
+improvement rate (# of cycles)
+mean: 0.08775995246583483
+population std dev: 0.05422872467760058
+
+
+improvement rate (time)
+mean: 0.013133979628944683
+population std dev: 0.00529729427400621
+
+
+improvement during development
+mean: 0.05673758865248227
+population std dev: 0.04284768075742756
+improvement during random drift
+
+
+mean: 0.031914893617021274
+population std dev: 0.05695878866740784
+
+
+improvement before first drift
+mean: 0.05673758865248227
+population std dev: 0.052357528582387944
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.0673758865248227
+population std dev: 0.03916794686945837
+
+
+improvement up to final drift
+mean: 0.0673758865248227
+population std dev: 0.03916794686945837
+improvement during the last drift
+mean: 0.021276595744680854
+population std dev: 0.06263660188884998
+
+
+
+folder: not_crashed/err60_mod4; test_case: tc05;
+total improvement
+mean: 0.0784313725490196
+population std dev: 0.2744222549466354
+
+
+improvement rate (# of cycles)
+mean: 0.03276515151515152
+population std dev: 0.22236961723953666
+
+
+improvement rate (time)
+mean: -0.09361235523430818
+population std dev: 0.4770670824071523
+
+
+improvement during development
+mean: 0.14215686274509806
+population std dev: 0.17701441260066458
+improvement during random drift
+
+
+mean: -0.06372549019607843
+population std dev: 0.11412202673355701
+
+
+improvement before first drift
+mean: 0.2107843137254902
+population std dev: 0.1021209149803905
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.024509803921568624
+population std dev: 0.20669773178733347
+
+
+improvement up to final drift
+mean: 0.024509803921568624
+population std dev: 0.20669773178733347
+improvement during the last drift
+mean: 0.05392156862745098
+population std dev: 0.08433652222590811
+
+
+
+folder: not_crashed/err60_mod4; test_case: tc06;
+total improvement
+mean: 0.14930555555555555
+population std dev: 0.07902643525514613
+
+
+improvement rate (# of cycles)
+mean: 0.4441798941798942
+population std dev: 0.2713816393514762
+
+
+improvement rate (time)
+mean: 0.16485244992067755
+population std dev: 0.13037965861205644
+
+
+improvement during development
+mean: 0.14930555555555555
+population std dev: 0.07430880055219687
+improvement during random drift
+
+
+mean: 5.782411586589357e-19
+population std dev: 0.030665836341416133
+
+
+improvement before first drift
+mean: 0.17361111111111113
+population std dev: 0.09014413184546646
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.25
+population std dev: 0.16989069198229262
+
+
+improvement up to final drift
+mean: 0.25
+population std dev: 0.16989069198229262
+improvement during the last drift
+mean: -0.10069444444444443
+population std dev: 0.10253349347384305
+
+
+
+folder: not_crashed/err60_mod4; test_case: tc07;
+total improvement
+mean: 0.3619791666666667
+population std dev: 0.028763960982258495
+
+
+improvement rate (# of cycles)
+mean: 0.9540509259259259
+population std dev: 0.1581078675445737
+
+
+improvement rate (time)
+mean: 0.49815572260641194
+population std dev: 0.12957482802807388
+
+
+improvement during development
+mean: 0.171875
+population std dev: 0.01275775907699572
+improvement during random drift
+
+
+mean: 0.19010416666666666
+population std dev: 0.03737682316251907
+
+
+improvement before first drift
+mean: 0.20833333333333334
+population std dev: 0.003682847818679935
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.3333333333333333
+population std dev: 0.032733867421813896
+
+
+improvement up to final drift
+mean: 0.3333333333333333
+population std dev: 0.032733867421813896
+improvement during the last drift
+mean: 0.028645833333333332
+population std dev: 0.009743899444723805
+
+
+
+folder: not_crashed/err60_mod4; test_case: tc08;
+total improvement
+mean: 0.2976190476190476
+population std dev: 0.029562826241570132
+
+
+improvement rate (# of cycles)
+mean: 0.5250862068965517
+population std dev: 0.032739180559656585
+
+
+improvement rate (time)
+mean: 0.035050963481119794
+population std dev: 0.020807091236786524
+
+
+improvement during development
+mean: 0.16865079365079363
+population std dev: 0.06878942787047505
+improvement during random drift
+
+
+mean: 0.12896825396825398
+population std dev: 0.03958320901440478
+
+
+improvement before first drift
+mean: 0.17460317460317462
+population std dev: 0.026767336434984218
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.32341269841269843
+population std dev: 0.007423923386456227
+
+
+improvement up to final drift
+mean: 0.32341269841269843
+population std dev: 0.007423923386456227
+improvement during the last drift
+mean: -0.07738095238095238
+population std dev: 0.0
+
+
+
+folder: not_crashed/err60_mod4; test_case: tc09;
+total improvement
+mean: 0.1036484245439469
+population std dev: 0.04876016725701216
+
+
+improvement rate (# of cycles)
+mean: 0.19290123456790123
+population std dev: 0.010912141684977594
+
+
+improvement rate (time)
+mean: 0.026288200281499346
+population std dev: 0.0043320193049781455
+
+
+improvement during development
+mean: 0.15422885572139303
+population std dev: 0.028143553480061596
+improvement during random drift
+
+
+mean: -0.05058043117744613
+population std dev: 0.04063864263629471
+
+
+improvement before first drift
+mean: 0.15422885572139303
+population std dev: 0.01958708426371097
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.14925373134328357
+population std dev: 0.0
+
+
+improvement up to final drift
+mean: 0.14925373134328357
+population std dev: 0.0
+improvement during the last drift
+mean: -0.04560530679933667
+population std dev: 0.04876016725701216
+
+
+
+folder: not_crashed/err60_mod4; test_case: tc10;
+total improvement
+mean: 0.23927392739273926
+population std dev: 0.03139653067729446
+
+
+improvement rate (# of cycles)
+mean: 0.6911334709322325
+population std dev: 0.07680198399069241
+
+
+improvement rate (time)
+mean: 0.013631957197109362
+population std dev: 0.004607839888265039
+
+
+improvement during development
+mean: 0.20462046204620463
+population std dev: 0.016335800225431792
+improvement during random drift
+
+
+mean: 0.03465346534653465
+population std dev: 0.04446268510002468
+
+
+improvement before first drift
+mean: 0.19471947194719474
+population std dev: 0.02839051243248392
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.24587458745874588
+population std dev: 0.0256705432113928
+
+
+improvement up to final drift
+mean: 0.24587458745874588
+population std dev: 0.0256705432113928
+improvement during the last drift
+mean: -0.019801980198019802
+population std dev: 0.0
+
+
+
+folder: not_crashed/err60_mod4; test_case: tc11;
+total improvement
+mean: 0.18878101402373246
+population std dev: 0.05213827820321283
+
+
+improvement rate (# of cycles)
+mean: 0.38577563070316695
+population std dev: 0.1570446751998407
+
+
+improvement rate (time)
+mean: 0.03831266291186056
+population std dev: 0.041892404591212
+
+
+improvement during development
+mean: 0.056634304207119734
+population std dev: 0.06937201006545636
+improvement during random drift
+
+
+mean: 0.13214670981661272
+population std dev: 0.09025136410844001
+
+
+improvement before first drift
+mean: 0.08414239482200647
+population std dev: 0.029215971011760176
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.1941747572815534
+population std dev: 0.06488652963030234
+
+
+improvement up to final drift
+mean: 0.1941747572815534
+population std dev: 0.06488652963030234
+improvement during the last drift
+mean: -0.008090614886731413
+population std dev: 0.05987055016181227
+
+
+
+folder: not_crashed/err60_mod4; test_case: tc12;
+total improvement
+mean: 0.3155737704918033
+population std dev: 0.04272266604128931
+
+
+improvement rate (# of cycles)
+mean: 1.1323529411764708
+population std dev: 0.1532989781481558
+
+
+improvement rate (time)
+mean: 0.013379325275607007
+population std dev: 0.0010819400742632093
+
+
+improvement during development
+mean: 0.3155737704918033
+population std dev: 0.04272266604128931
+improvement during random drift
+
+
+mean: N/A
+population std dev: N/A
+
+
+improvement before first drift
+mean: 0.3155737704918033
+population std dev: 0.04272266604128931
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.3155737704918033
+population std dev: 0.04272266604128931
+
+
+improvement up to final drift
+mean: 0.3155737704918033
+population std dev: 0.04272266604128931
+improvement during the last drift
+mean: N/A
+population std dev: N/A
+
+
+
+folder: not_crashed/err60_mod6; test_case: tc01;
+total improvement
+mean: 0.1791666666666667
+population std dev: 0.10223203455321077
+
+
+improvement rate (# of cycles)
+mean: 0.17592592592592596
+population std dev: 0.10289866097635586
+
+
+improvement rate (time)
+mean: 0.17348091110645067
+population std dev: 0.10941066362145747
+
+
+improvement during development
+mean: 0.1416666666666667
+population std dev: 0.11471583248280169
+improvement during random drift
+
+
+mean: 0.0375
+population std dev: 0.020412414523193187
+
+
+improvement before first drift
+mean: 0.15833333333333335
+population std dev: 0.09260879487872029
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.16250000000000006
+population std dev: 0.0872018730685681
+
+
+improvement up to final drift
+mean: 0.16250000000000006
+population std dev: 0.0872018730685681
+improvement during the last drift
+mean: 0.016666666666666653
+population std dev: 0.015590239111558091
+
+
+
+folder: not_crashed/err60_mod6; test_case: tc02;
+total improvement
+mean: 0.20114942528735627
+population std dev: 0.13174590099250175
+
+
+improvement rate (# of cycles)
+mean: 0.4497354497354497
+population std dev: 0.26846312666608174
+
+
+improvement rate (time)
+mean: 0.49994221092395835
+population std dev: 0.28170881079062243
+
+
+improvement during development
+mean: 0.022988505747126544
+population std dev: 0.05903057064417848
+improvement during random drift
+
+
+mean: 0.17816091954022975
+population std dev: 0.07326177462058608
+
+
+improvement before first drift
+mean: 0.10057471264367816
+population std dev: 0.017713833341864854
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.1954022988505747
+population std dev: 0.11972796928735435
+
+
+improvement up to final drift
+mean: 0.1954022988505747
+population std dev: 0.11972796928735435
+improvement during the last drift
+mean: 0.005747126436781591
+population std dev: 0.08912679551305072
+
+
+
+folder: not_crashed/err60_mod6; test_case: tc03;
+total improvement
+mean: 0.1149425287356322
+population std dev: 0.056893649060986574
+
+
+improvement rate (# of cycles)
+mean: 0.20079365079365066
+population std dev: 0.05444467582902371
+
+
+improvement rate (time)
+mean: 0.12292302867100831
+population std dev: 0.048361408475895686
+
+
+improvement during development
+mean: 0.13505747126436782
+population std dev: 0.043007556169815414
+improvement during random drift
+
+
+mean: -0.020114942528735625
+population std dev: 0.07753297450133359
+
+
+improvement before first drift
+mean: 0.12931034482758616
+population std dev: 0.0439570647723516
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.12931034482758616
+population std dev: 0.018622818098873128
+
+
+improvement up to final drift
+mean: 0.12931034482758616
+population std dev: 0.018622818098873128
+improvement during the last drift
+mean: -0.014367816091953972
+population std dev: 0.05375944521226923
+
+
+
+folder: not_crashed/err60_mod6; test_case: tc04;
+total improvement
+mean: 0.14583333333333334
+population std dev: 0.09470959511795733
+
+
+improvement rate (# of cycles)
+mean: 0.11474219317356571
+population std dev: 0.08346119331043508
+
+
+improvement rate (time)
+mean: 0.0185510233060063
+population std dev: 0.02043700833761806
+
+
+improvement during development
+mean: 0.10185185185185182
+population std dev: 0.07290748031492417
+improvement during random drift
+
+
+mean: 0.04398148148148149
+population std dev: 0.027970013827765202
+
+
+improvement before first drift
+mean: 0.0925925925925926
+population std dev: 0.06928995160692485
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.10185185185185182
+population std dev: 0.07290748031492417
+
+
+improvement up to final drift
+mean: 0.10185185185185182
+population std dev: 0.07290748031492417
+improvement during the last drift
+mean: 0.04398148148148149
+population std dev: 0.027970013827765202
+
+
+
+folder: not_crashed/err60_mod6; test_case: tc05;
+total improvement
+mean: 0.1462585034013605
+population std dev: 0.100785934626048
+
+
+improvement rate (# of cycles)
+mean: 0.16620370370370366
+population std dev: 0.0884998236883382
+
+
+improvement rate (time)
+mean: 0.27089726388802854
+population std dev: 0.08390470206180585
+
+
+improvement during development
+mean: 0.2653061224489795
+population std dev: 0.10831077093939222
+improvement during random drift
+
+
+mean: -0.119047619047619
+population std dev: 0.0890870806374747
+
+
+improvement before first drift
+mean: 0.1632653061224489
+population std dev: 0.030040002946693352
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.18027210884353737
+population std dev: 0.12367114940610781
+
+
+improvement up to final drift
+mean: 0.18027210884353737
+population std dev: 0.12367114940610781
+improvement during the last drift
+mean: -0.03401360544217686
+population std dev: 0.025453451610707084
+
+
+
+folder: not_crashed/err60_mod6; test_case: tc06;
+total improvement
+mean: 0.2417840375586855
+population std dev: 0.0821931521127305
+
+
+improvement rate (# of cycles)
+mean: 0.4405594405594407
+population std dev: 0.17224987425397065
+
+
+improvement rate (time)
+mean: 0.12509482203646421
+population std dev: 0.0761074564798569
+
+
+improvement during development
+mean: 0.19483568075117375
+population std dev: 0.07848945303896945
+improvement during random drift
+
+
+mean: 0.04694835680751172
+population std dev: 0.028363957684494248
+
+
+improvement before first drift
+mean: 0.2042253521126761
+population std dev: 0.08682273243618277
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.22065727699530524
+population std dev: 0.09348501291896658
+
+
+improvement up to final drift
+mean: 0.22065727699530524
+population std dev: 0.09348501291896658
+improvement during the last drift
+mean: 0.021126760563380254
+population std dev: 0.04563901900287224
+
+
+
+folder: not_crashed/err60_mod6; test_case: tc07;
+total improvement
+mean: 0.32631578947368417
+population std dev: 0.045275396142329616
+
+
+improvement rate (# of cycles)
+mean: 0.9176379176379178
+population std dev: 0.049997449174806356
+
+
+improvement rate (time)
+mean: 0.16438127896624125
+population std dev: 0.00997054315899379
+
+
+improvement during development
+mean: 0.2000000000000001
+population std dev: 0.05367388961676618
+improvement during random drift
+
+
+mean: 0.12631578947368408
+population std dev: 0.05813347903782769
+
+
+improvement before first drift
+mean: 0.22280701754385968
+population std dev: 0.030487977538566267
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.3578947368421053
+population std dev: 0.03867615383341859
+
+
+improvement up to final drift
+mean: 0.3578947368421053
+population std dev: 0.03867615383341859
+improvement during the last drift
+mean: -0.03157894736842113
+population std dev: 0.07100388191174759
+
+
+
+folder: not_crashed/err60_mod6; test_case: tc08;
+total improvement
+mean: 0.2328042328042328
+population std dev: 0.043146842408201276
+
+
+improvement rate (# of cycles)
+mean: 0.4645396170163972
+population std dev: 0.18583672410497934
+
+
+improvement rate (time)
+mean: 0.007946462310192033
+population std dev: 0.0027630090630014455
+
+
+improvement during development
+mean: 0.1626984126984127
+population std dev: 0.019440394783993408
+improvement during random drift
+
+
+mean: 0.0701058201058201
+population std dev: 0.04597393438355225
+
+
+improvement before first drift
+mean: 0.1613756613756614
+population std dev: 0.01784489095665609
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.21296296296296294
+population std dev: 0.06335412706258221
+
+
+improvement up to final drift
+mean: 0.21296296296296294
+population std dev: 0.06335412706258221
+improvement during the last drift
+mean: 0.05952380952380952
+population std dev: 0.0
+
+
+
+folder: not_crashed/err60_mod6; test_case: tc09;
+total improvement
+mean: 0.1781045751633987
+population std dev: 0.12480494414332231
+
+
+improvement rate (# of cycles)
+mean: 0.17354580285614765
+population std dev: 0.15251211375000573
+
+
+improvement rate (time)
+mean: 0.02205001962746898
+population std dev: 0.020356463195099
+
+
+improvement during development
+mean: 0.09477124183006541
+population std dev: 0.09423445003461577
+improvement during random drift
+
+
+mean: 0.08333333333333327
+population std dev: 0.04216826111295418
+
+
+improvement before first drift
+mean: 0.05718954248366015
+population std dev: 0.07512786884034409
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.13071895424836602
+population std dev: 0.10516073797192212
+
+
+improvement up to final drift
+mean: 0.13071895424836602
+population std dev: 0.10516073797192212
+improvement during the last drift
+mean: 0.04738562091503267
+population std dev: 0.01974353917254019
+
+
+
+folder: not_crashed/err60_mod6; test_case: tc10;
+total improvement
+mean: 0.2555555555555556
+population std dev: 0.05927546074821842
+
+
+improvement rate (# of cycles)
+mean: 1.0115384615384615
+population std dev: 0.10656203777110042
+
+
+improvement rate (time)
+mean: 0.011832845601865337
+population std dev: 0.004219927931780007
+
+
+improvement during development
+mean: 0.2511111111111111
+population std dev: 0.04236816881097247
+improvement during random drift
+
+
+mean: 0.006666666666666644
+population std dev: 0.030000000000000072
+
+
+improvement before first drift
+mean: 0.2544444444444445
+population std dev: 0.04306182750016909
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.24333333333333332
+population std dev: 0.04277417012204478
+
+
+improvement up to final drift
+mean: 0.24333333333333332
+population std dev: 0.04277417012204478
+improvement during the last drift
+mean: 0.036666666666666715
+population std dev: 0.0
+
+
+
+folder: not_crashed/err60_mod6; test_case: tc11;
+total improvement
+mean: 0.2522292993630573
+population std dev: 0.049537053800605156
+
+
+improvement rate (# of cycles)
+mean: 0.6435107376283848
+population std dev: 0.25056554322190355
+
+
+improvement rate (time)
+mean: 0.021509205376780624
+population std dev: 0.022337038545664187
+
+
+improvement during development
+mean: 0.04352441613588116
+population std dev: 0.035112177088197874
+improvement during random drift
+
+
+mean: 0.2087048832271762
+population std dev: 0.014949695747162588
+
+
+improvement before first drift
+mean: 0.04140127388535036
+population std dev: 0.02639023969141409
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.25053078556263275
+population std dev: 0.04976946144259462
+
+
+improvement up to final drift
+mean: 0.25053078556263275
+population std dev: 0.04976946144259462
+improvement during the last drift
+mean: 0.005095541401273867
+population std dev: 0.0
+
+
+
+folder: not_crashed/err60_mod6; test_case: tc12;
+total improvement
+mean: 0.2959927140255009
+population std dev: 0.009287831536598908
+
+
+improvement rate (# of cycles)
+mean: 1.5963804713804715
+population std dev: 0.09234931309199856
+
+
+improvement rate (time)
+mean: 0.01207667638871987
+population std dev: 0.00030189009490548557
+
+
+improvement during development
+mean: 0.2959927140255009
+population std dev: 0.009287831536598908
+improvement during random drift
+
+
+mean: N/A
+population std dev: N/A
+
+
+improvement before first drift
+mean: 0.2959927140255009
+population std dev: 0.009287831536598908
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.2959927140255009
+population std dev: 0.009287831536598908
+
+
+improvement up to final drift
+mean: 0.2959927140255009
+population std dev: 0.009287831536598908
+improvement during the last drift
+mean: N/A
+population std dev: N/A
+
+
+
+folder: not_crashed/first_batch_all_exps; test_case: tc01;
+total improvement
+mean: 0.7321428571428571
+population std dev: 0.0437408882639853
+
+
+improvement rate (# of cycles)
+mean: 0.7701465201465201
+population std dev: 0.12842896472471743
+
+
+improvement rate (time)
+mean: 15.589156588277403
+population std dev: 2.937535851781324
+
+
+improvement during development
+mean: 0.5357142857142857
+population std dev: 0.05050762722761051
+improvement during random drift
+
+
+mean: 0.19642857142857142
+population std dev: 0.09105391988558545
+
+
+improvement before first drift
+mean: 0.28571428571428575
+population std dev: 0.22015764296317772
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.7083333333333334
+population std dev: 0.08543273865718644
+
+
+improvement up to final drift
+mean: 0.7083333333333334
+population std dev: 0.08543273865718644
+improvement during the last drift
+mean: 0.023809523809523808
+population std dev: 0.12738651523233746
+
+
+
+folder: not_crashed/first_batch_all_exps; test_case: tc02;
+total improvement
+mean: 0.7579365079365079
+population std dev: 0.034136211377153294
+
+
+improvement rate (# of cycles)
+mean: 0.7109478685565641
+population std dev: 0.1122459967835132
+
+
+improvement rate (time)
+mean: 4.5674706907890785
+population std dev: 0.1303320178400192
+
+
+improvement during development
+mean: 0.7936507936507936
+population std dev: 0.02446196032924198
+improvement during random drift
+
+
+mean: -0.03571428571428571
+population std dev: 0.050507627227610534
+
+
+improvement before first drift
+mean: 0.6547619047619048
+population std dev: 0.06373959684209925
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.7817460317460317
+population std dev: 0.07856742013183861
+
+
+improvement up to final drift
+mean: 0.7817460317460317
+population std dev: 0.07856742013183861
+improvement during the last drift
+mean: -0.023809523809523808
+population std dev: 0.06070261325705696
+
+
+
+folder: not_crashed/first_batch_all_exps; test_case: tc03;
+total improvement
+mean: 0.8928571428571429
+population std dev: 0.0
+
+
+improvement rate (# of cycles)
+mean: 1.5625
+population std dev: 0.0
+
+
+improvement rate (time)
+mean: 46.83559000280916
+population std dev: 6.549596645230165
+
+
+improvement during development
+mean: 0.5912698412698413
+population std dev: 0.05611958580845616
+improvement during random drift
+
+
+mean: 0.30158730158730157
+population std dev: 0.056119585808456135
+
+
+improvement before first drift
+mean: 0.1111111111111111
+population std dev: 0.03928371006591931
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.8928571428571429
+population std dev: 0.0
+
+
+improvement up to final drift
+mean: 0.8928571428571429
+population std dev: 0.0
+improvement during the last drift
+mean: 0.0
+population std dev: 0.0
+
+
+
+folder: not_crashed/first_batch_all_exps; test_case: tc04;
+total improvement
+mean: 0.7829457364341085
+population std dev: 0.054814479161747864
+
+
+improvement rate (# of cycles)
+mean: 0.823879142300195
+population std dev: 0.08170978675870819
+
+
+improvement rate (time)
+mean: 2.5311430855157853
+population std dev: 1.0717954341528817
+
+
+improvement during development
+mean: 0.7713178294573644
+population std dev: 0.10151783607526198
+improvement during random drift
+
+
+mean: 0.011627906976744184
+population std dev: 0.15629337328415466
+
+
+improvement before first drift
+mean: 0.5852713178294574
+population std dev: 0.17972128867239737
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.7286821705426356
+population std dev: 0.0856229536216067
+
+
+improvement up to final drift
+mean: 0.7286821705426356
+population std dev: 0.0856229536216067
+improvement during the last drift
+mean: 0.054263565891472874
+population std dev: 0.10457936095528715
+
+
+
+folder: not_crashed/first_batch_all_exps; test_case: tc05;
+total improvement
+mean: 0.8333333333333334
+population std dev: 0.012740662724081912
+
+
+improvement rate (# of cycles)
+mean: 0.7193362193362193
+population std dev: 0.019179234489206092
+
+
+improvement rate (time)
+mean: 2.7068475170825774
+population std dev: 0.8880977107922883
+
+
+improvement during development
+mean: 0.8513513513513513
+population std dev: 0.03822198817224579
+improvement during random drift
+
+
+mean: -0.018018018018018018
+population std dev: 0.04593711273507013
+
+
+improvement before first drift
+mean: 0.7252252252252251
+population std dev: 0.14014728996490136
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.8423423423423424
+population std dev: 0.025481325448163877
+
+
+improvement up to final drift
+mean: 0.8423423423423424
+population std dev: 0.025481325448163877
+improvement during the last drift
+mean: -0.009009009009009009
+population std dev: 0.033708625106071546
+
+
+
+folder: not_crashed/first_batch_all_exps; test_case: tc06;
+total improvement
+mean: 0.9148936170212766
+population std dev: 0.0
+
+
+improvement rate (# of cycles)
+mean: 2.2640151515151516
+population std dev: 0.3098980289352043
+
+
+improvement rate (time)
+mean: 4.872358344229318
+population std dev: 2.3197783390078146
+
+
+improvement during development
+mean: 0.8687943262411348
+population std dev: 0.0328851719698429
+improvement during random drift
+
+
+mean: 0.046099290780141834
+population std dev: 0.03288517196984292
+
+
+improvement before first drift
+mean: 0.723404255319149
+population std dev: 0.1879098056665499
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.9148936170212766
+population std dev: 0.0
+
+
+improvement up to final drift
+mean: 0.9148936170212766
+population std dev: 0.0
+improvement during the last drift
+mean: 0.0
+population std dev: 0.0
+
+
+
+folder: not_crashed/first_batch_all_exps; test_case: tc07;
+total improvement
+mean: 0.9635416666666666
+population std dev: 0.03210632293213009
+
+
+improvement rate (# of cycles)
+mean: 1.2792424242424243
+population std dev: 0.083781439831497
+
+
+improvement rate (time)
+mean: 0.24845566410250472
+population std dev: 0.04366809728509914
+
+
+improvement during development
+mean: 0.8984375
+population std dev: 0.061515686515717274
+improvement during random drift
+
+
+mean: 0.06510416666666667
+population std dev: 0.03146626555623587
+
+
+improvement before first drift
+mean: 0.8333333333333334
+population std dev: 0.09554133504085491
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.9557291666666666
+population std dev: 0.003682847818679935
+
+
+improvement up to final drift
+mean: 0.9557291666666666
+population std dev: 0.003682847818679935
+improvement during the last drift
+mean: 0.0078125
+population std dev: 0.029231698334171417
+
+
+
+folder: not_crashed/first_batch_all_exps; test_case: tc08;
+total improvement
+mean: 0.563953488372093
+population std dev: 0.06594844777974243
+
+
+improvement rate (# of cycles)
+mean: 0.8072436635944701
+population std dev: 0.1426378516520957
+
+
+improvement rate (time)
+mean: 0.10007622027810535
+population std dev: 0.011886028025756239
+
+
+improvement during development
+mean: 0.563953488372093
+population std dev: 0.06594844777974243
+improvement during random drift
+
+
+mean: N/A
+population std dev: N/A
+
+
+improvement before first drift
+mean: 0.563953488372093
+population std dev: 0.06594844777974243
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.563953488372093
+population std dev: 0.06594844777974243
+
+
+improvement up to final drift
+mean: 0.563953488372093
+population std dev: 0.06594844777974243
+improvement during the last drift
+mean: N/A
+population std dev: N/A
+
+
+
+folder: not_crashed/first_batch_all_exps; test_case: tc09;
+total improvement
+mean: 0.7057291666666666
+population std dev: 0.06820729611306664
+
+
+improvement rate (# of cycles)
+mean: 0.6756132756132756
+population std dev: 0.0837712362704409
+
+
+improvement rate (time)
+mean: 0.39467352717622317
+population std dev: 0.2612787170900558
+
+
+improvement during development
+mean: 0.5729166666666666
+population std dev: 0.04525559165880929
+improvement during random drift
+
+
+mean: 0.1328125
+population std dev: 0.0459987545121242
+
+
+improvement before first drift
+mean: 0.3151041666666667
+population std dev: 0.08566085522603399
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.7083333333333334
+population std dev: 0.06997410855491877
+
+
+improvement up to final drift
+mean: 0.7083333333333334
+population std dev: 0.06997410855491877
+improvement during the last drift
+mean: -0.0078125
+population std dev: 0.0
+
+
+
+folder: not_crashed/first_batch_all_exps; test_case: tc10;
+total improvement
+mean: 0.353968253968254
+population std dev: 0.014720029357929688
+
+
+improvement rate (# of cycles)
+mean: 0.5710872162485066
+population std dev: 0.03832733354784193
+
+
+improvement rate (time)
+mean: 0.07606192942725241
+population std dev: 0.0027211214591902192
+
+
+improvement during development
+mean: 0.353968253968254
+population std dev: 0.014720029357929688
+improvement during random drift
+
+
+mean: N/A
+population std dev: N/A
+
+
+improvement before first drift
+mean: 0.353968253968254
+population std dev: 0.014720029357929688
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.353968253968254
+population std dev: 0.014720029357929688
+
+
+improvement up to final drift
+mean: 0.353968253968254
+population std dev: 0.014720029357929688
+improvement during the last drift
+mean: N/A
+population std dev: N/A
+
+
+
+folder: not_crashed/first_batch_all_exps; test_case: tc11;
+total improvement
+mean: 0.8284789644012944
+population std dev: 0.009153485840602554
+
+
+improvement rate (# of cycles)
+mean: 1.6394277220364177
+population std dev: 0.17890056344292535
+
+
+improvement rate (time)
+mean: 0.526559574932946
+population std dev: 0.10466083622271433
+
+
+improvement during development
+mean: 0.6974110032362458
+population std dev: 0.1178677919189276
+improvement during random drift
+
+
+mean: 0.13106796116504854
+population std dev: 0.11370696498874346
+
+
+improvement before first drift
+mean: 0.4498381877022654
+population std dev: 0.03661394336241024
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.8284789644012944
+population std dev: 0.009153485840602554
+
+
+improvement up to final drift
+mean: 0.8284789644012944
+population std dev: 0.009153485840602554
+improvement during the last drift
+mean: N/A
+population std dev: N/A
+
+
+
+folder: not_crashed/first_batch_two_factor; test_case: tc01;
+total improvement
+mean: 0.6488095238095238
+population std dev: 0.051204317065729914
+
+
+improvement rate (# of cycles)
+mean: 0.7459595959595959
+population std dev: 0.061810424019725155
+
+
+improvement rate (time)
+mean: 24.874751848966174
+population std dev: 5.022296982272705
+
+
+improvement during development
+mean: 0.35714285714285715
+population std dev: 0.0291605921759902
+improvement during random drift
+
+
+mean: 0.2916666666666667
+population std dev: 0.04686909448816555
+
+
+improvement before first drift
+mean: 0.11904761904761903
+population std dev: 0.13149239306175312
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.5297619047619048
+population std dev: 0.02227177015936871
+
+
+improvement up to final drift
+mean: 0.5297619047619048
+population std dev: 0.02227177015936871
+improvement during the last drift
+mean: 0.11904761904761905
+population std dev: 0.042089689356342115
+
+
+
+folder: not_crashed/first_batch_two_factor; test_case: tc02;
+total improvement
+mean: 0.5992063492063492
+population std dev: 0.0368000733948242
+
+
+improvement rate (# of cycles)
+mean: 0.7730263157894738
+population std dev: 0.10322170645405533
+
+
+improvement rate (time)
+mean: 10.64004174613608
+population std dev: 1.7969923391399192
+
+
+improvement during development
+mean: 0.6190476190476191
+population std dev: 0.0291605921759902
+improvement during random drift
+
+
+mean: -0.01984126984126984
+population std dev: 0.014847846772912465
+
+
+improvement before first drift
+mean: 0.5079365079365079
+population std dev: 0.053534672869968436
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.6190476190476191
+population std dev: 0.038880789567986955
+
+
+improvement up to final drift
+mean: 0.6190476190476191
+population std dev: 0.038880789567986955
+improvement during the last drift
+mean: -0.01984126984126984
+population std dev: 0.04988017892847831
+
+
+
+folder: not_crashed/first_batch_two_factor; test_case: tc03;
+total improvement
+mean: 0.30952380952380953
+population std dev: 0.044543540318737404
+
+
+improvement rate (# of cycles)
+mean: 0.8055555555555555
+population std dev: 0.14163943093313291
+
+
+improvement rate (time)
+mean: 9.60969432692787
+population std dev: 1.3015407815567583
+
+
+improvement during development
+mean: 0.1349206349206349
+population std dev: 0.02969569354582493
+improvement during random drift
+
+
+mean: 0.17460317460317462
+population std dev: 0.04988017892847831
+
+
+improvement before first drift
+mean: 0.1349206349206349
+population std dev: 0.02969569354582493
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.13888888888888887
+population std dev: 0.03413621137715328
+
+
+improvement up to final drift
+mean: 0.13888888888888887
+population std dev: 0.03413621137715328
+improvement during the last drift
+mean: 0.1706349206349206
+population std dev: 0.048923920658483944
+
+
+
+folder: not_crashed/first_batch_two_factor; test_case: tc04;
+total improvement
+mean: 0.813953488372093
+population std dev: 0.05696487773914369
+
+
+improvement rate (# of cycles)
+mean: 0.8771836007130126
+population std dev: 0.1289205134607858
+
+
+improvement rate (time)
+mean: 6.711603988034209
+population std dev: 0.6960083250087824
+
+
+improvement during development
+mean: 0.7054263565891473
+population std dev: 0.10062600764145092
+improvement during random drift
+
+
+mean: 0.10852713178294575
+population std dev: 0.04486758489453575
+
+
+improvement before first drift
+mean: 0.6085271317829457
+population std dev: 0.16508170107788261
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.7906976744186046
+population std dev: 0.03797658515942914
+
+
+improvement up to final drift
+mean: 0.7906976744186046
+population std dev: 0.03797658515942914
+improvement during the last drift
+mean: 0.023255813953488372
+population std dev: 0.018988292579714558
+
+
+
+folder: not_crashed/first_batch_two_factor; test_case: tc05;
+total improvement
+mean: 0.536036036036036
+population std dev: 0.022968556367535073
+
+
+improvement rate (# of cycles)
+mean: 0.470564780936298
+population std dev: 0.06256292448316947
+
+
+improvement rate (time)
+mean: 8.021186927930863
+population std dev: 2.778130319177665
+
+
+improvement during development
+mean: 0.563063063063063
+population std dev: 0.05553526128800878
+improvement during random drift
+
+
+mean: -0.02702702702702703
+population std dev: 0.03310121274031322
+
+
+improvement before first drift
+mean: 0.38738738738738737
+population std dev: 0.17457497635203695
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.48648648648648646
+population std dev: 0.03822198817224579
+
+
+improvement up to final drift
+mean: 0.48648648648648646
+population std dev: 0.03822198817224579
+improvement during the last drift
+mean: 0.04954954954954955
+population std dev: 0.027767630644004396
+
+
+
+folder: not_crashed/first_batch_two_factor; test_case: tc06;
+total improvement
+mean: 0.9148936170212766
+population std dev: 0.0
+
+
+improvement rate (# of cycles)
+mean: 2.408796296296296
+population std dev: 0.21988450173104274
+
+
+improvement rate (time)
+mean: 14.213310406155053
+population std dev: 1.446160410739721
+
+
+improvement during development
+mean: 0.7411347517730497
+population std dev: 0.056515522874146164
+improvement during random drift
+
+
+mean: 0.17375886524822695
+population std dev: 0.05651552287414619
+
+
+improvement before first drift
+mean: 0.4716312056737588
+population std dev: 0.04011953368434313
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.9148936170212766
+population std dev: 0.0
+
+
+improvement up to final drift
+mean: 0.9148936170212766
+population std dev: 0.0
+improvement during the last drift
+mean: 0.0
+population std dev: 0.0
+
+
+
+folder: not_crashed/first_batch_two_factor; test_case: tc07;
+total improvement
+mean: 0.8072916666666666
+population std dev: 0.02946278254943948
+
+
+improvement rate (# of cycles)
+mean: 1.613888888888889
+population std dev: 0.07267486362195068
+
+
+improvement rate (time)
+mean: 6.158413360702366
+population std dev: 2.436029794462652
+
+
+improvement during development
+mean: 0.703125
+population std dev: 0.05103103630798288
+improvement during random drift
+
+
+mean: 0.10416666666666667
+population std dev: 0.02946278254943948
+
+
+improvement before first drift
+mean: 0.59375
+population std dev: 0.12220175215260486
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.7890625
+population std dev: 0.011048543456039806
+
+
+improvement up to final drift
+mean: 0.7890625
+population std dev: 0.011048543456039806
+improvement during the last drift
+mean: 0.018229166666666668
+population std dev: 0.040511326005479284
+
+
+
+folder: not_crashed/first_batch_two_factor; test_case: tc08;
+total improvement
+mean: 0.8062015503875969
+population std dev: 0.0027407239580873985
+
+
+improvement rate (# of cycles)
+mean: 1.0024684873949579
+population std dev: 0.06680825040534295
+
+
+improvement rate (time)
+mean: 3.1818655493944754
+population std dev: 0.6418071924858461
+
+
+improvement during development
+mean: 0.6957364341085271
+population std dev: 0.02341675576278022
+improvement during random drift
+
+
+mean: 0.11046511627906976
+population std dev: 0.020692012116339753
+
+
+improvement before first drift
+mean: 0.6046511627906977
+population std dev: 0.07843452071646537
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.7829457364341086
+population std dev: 0.022433792447267866
+
+
+improvement up to final drift
+mean: 0.7829457364341086
+population std dev: 0.022433792447267866
+improvement during the last drift
+mean: 0.023255813953488372
+population std dev: 0.021753822016127567
+
+
+
+folder: not_crashed/first_batch_two_factor; test_case: tc09;
+total improvement
+mean: 0.6536458333333334
+population std dev: 0.02240188871625684
+
+
+improvement rate (# of cycles)
+mean: 0.9392135642135643
+population std dev: 0.07890584371959952
+
+
+improvement rate (time)
+mean: 4.586016092299896
+population std dev: 0.2202198584767626
+
+
+improvement during development
+mean: 0.5286458333333334
+population std dev: 0.04830009633070679
+improvement during random drift
+
+
+mean: 0.125
+population std dev: 0.05740991584648074
+
+
+improvement before first drift
+mean: 0.2708333333333333
+population std dev: 0.03146626555623587
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.625
+population std dev: 0.03983608994994363
+
+
+improvement up to final drift
+mean: 0.625
+population std dev: 0.03983608994994363
+improvement during the last drift
+mean: 0.028645833333333332
+population std dev: 0.02655739329996242
+
+
+
+folder: not_crashed/first_batch_two_factor; test_case: tc10;
+total improvement
+mean: 0.6476190476190476
+population std dev: 0.047300521986512176
+
+
+improvement rate (# of cycles)
+mean: 1.09159800772704
+population std dev: 0.08635241038900206
+
+
+improvement rate (time)
+mean: 6.423619755527251
+population std dev: 1.663645643155865
+
+
+improvement during development
+mean: 0.4492063492063492
+population std dev: 0.028659476325821887
+improvement during random drift
+
+
+mean: 0.1984126984126984
+population std dev: 0.019179438053324716
+
+
+improvement before first drift
+mean: 0.14761904761904762
+population std dev: 0.06110595731720686
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.6857142857142856
+population std dev: 0.0587087047901807
+
+
+improvement up to final drift
+mean: 0.6857142857142856
+population std dev: 0.0587087047901807
+improvement during the last drift
+mean: -0.03809523809523809
+population std dev: 0.07417981870189157
+
+
+
+folder: not_crashed/first_batch_two_factor; test_case: tc11;
+total improvement
+mean: 0.9498381877022654
+population std dev: 0.012108923581792686
+
+
+improvement rate (# of cycles)
+mean: 1.5277649769585253
+population std dev: 0.10269938770557938
+
+
+improvement rate (time)
+mean: 3.2718830163009467
+population std dev: 1.2106256430872064
+
+
+improvement during development
+mean: 0.8284789644012944
+population std dev: 0.06636277234436856
+improvement during random drift
+
+
+mean: 0.12135922330097088
+population std dev: 0.0759311858035603
+
+
+improvement before first drift
+mean: 0.5922330097087378
+population std dev: 0.18813419781627283
+improvement w/o the final drift (or total improvement, if no drift / doesnt end in drift)
+mean: 0.9449838187702265
+population std dev: 0.0022883714601506385
+
+
+improvement up to final drift
+mean: 0.9449838187702265
+population std dev: 0.0022883714601506385
+improvement during the last drift
+mean: 0.004854368932038835
+population std dev: 0.01429087518823276
+
+
+

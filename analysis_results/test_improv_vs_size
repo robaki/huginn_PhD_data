@@ -1,0 +1,121 @@
+not_crashed/err0_mod2
+spearman correlation tests:
+TC size vs. improvement
+corr coefficient:-0.134461828155; p-value:0.434297407277
+model of ref size vs. improvement
+corr coefficient:-0.0917709835776; p-value:0.594505158932
+TC size vs. improv rate per cycle
+corr coefficient:0.336584080971; p-value:0.0447256091467
+model of ref size vs. improv rate per cycle
+corr coefficient:0.445044182645; p-value:0.00653254337571
+
+not_crashed/err0_mod4
+spearman correlation tests:
+TC size vs. improvement
+corr coefficient:-0.391971334802; p-value:0.0180633790455
+model of ref size vs. improvement
+corr coefficient:-0.420557035478; p-value:0.010650569621
+TC size vs. improv rate per cycle
+corr coefficient:0.54841471603; p-value:0.000534410086987
+model of ref size vs. improv rate per cycle
+corr coefficient:0.652948569791; p-value:1.58573314073e-05
+
+not_crashed/err0_mod6
+spearman correlation tests:
+TC size vs. improvement
+corr coefficient:-0.562429852501; p-value:0.000356642131509
+model of ref size vs. improvement
+corr coefficient:-0.573347092476; p-value:0.000256980699185
+TC size vs. improv rate per cycle
+corr coefficient:0.388872747175; p-value:0.0190784435375
+model of ref size vs. improv rate per cycle
+corr coefficient:0.467004878121; p-value:0.00408618822431
+
+not_crashed/err30_mod2
+spearman correlation tests:
+TC size vs. improvement
+corr coefficient:0.442881759052; p-value:0.00683039858651
+model of ref size vs. improvement
+corr coefficient:0.522399894192; p-value:0.00108203733709
+TC size vs. improv rate per cycle
+corr coefficient:0.535246566069; p-value:0.00076918004883
+model of ref size vs. improv rate per cycle
+corr coefficient:0.631183617465; p-value:3.66843933524e-05
+
+not_crashed/err30_mod4
+spearman correlation tests:
+TC size vs. improvement
+corr coefficient:0.105358760248; p-value:0.540836365629
+model of ref size vs. improvement
+corr coefficient:0.221175929233; p-value:0.194856428111
+TC size vs. improv rate per cycle
+corr coefficient:0.526759896571; p-value:0.000965148015329
+model of ref size vs. improv rate per cycle
+corr coefficient:0.616454212817; p-value:6.24677185793e-05
+
+not_crashed/err30_mod6
+spearman correlation tests:
+TC size vs. improvement
+corr coefficient:0.166538367156; p-value:0.331664153509
+model of ref size vs. improvement
+corr coefficient:0.313259849555; p-value:0.062834670439
+TC size vs. improv rate per cycle
+corr coefficient:0.600312718819; p-value:0.000108643151764
+model of ref size vs. improv rate per cycle
+corr coefficient:0.727959923345; p-value:4.87068116244e-07
+
+not_crashed/err60_mod2
+spearman correlation tests:
+TC size vs. improvement
+corr coefficient:0.347995678681; p-value:0.037544672734
+model of ref size vs. improvement
+corr coefficient:0.517217251214; p-value:0.00123709954745
+TC size vs. improv rate per cycle
+corr coefficient:0.289792554999; p-value:0.0864556999733
+model of ref size vs. improv rate per cycle
+corr coefficient:0.456433560406; p-value:0.00514098060398
+
+not_crashed/err60_mod4
+spearman correlation tests:
+TC size vs. improvement
+corr coefficient:0.477305384704; p-value:0.00324420319173
+model of ref size vs. improvement
+corr coefficient:0.52485971597; p-value:0.00101464278176
+TC size vs. improv rate per cycle
+corr coefficient:0.535281012545; p-value:0.000768462479684
+model of ref size vs. improv rate per cycle
+corr coefficient:0.597019969033; p-value:0.000121186519793
+
+not_crashed/err60_mod6
+spearman correlation tests:
+TC size vs. improvement
+corr coefficient:0.381876348874; p-value:0.0215464480828
+model of ref size vs. improvement
+corr coefficient:0.375056767767; p-value:0.0242019235894
+TC size vs. improv rate per cycle
+corr coefficient:0.620452242289; p-value:5.42080408963e-05
+model of ref size vs. improv rate per cycle
+corr coefficient:0.677045481296; p-value:5.77783036098e-06
+
+not_crashed/first_batch_all_exps
+spearman correlation tests:
+TC size vs. improvement
+corr coefficient:-0.191404317237; p-value:0.285952751619
+model of ref size vs. improvement
+corr coefficient:-0.3061305001; p-value:0.0831576800719
+TC size vs. improv rate per cycle
+corr coefficient:0.0070481982703; p-value:0.968947756397
+model of ref size vs. improv rate per cycle
+corr coefficient:-0.0561378982818; p-value:0.756334458747
+
+not_crashed/first_batch_two_factor
+spearman correlation tests:
+TC size vs. improvement
+corr coefficient:0.559921991356; p-value:0.000703290594718
+model of ref size vs. improvement
+corr coefficient:0.621413941172; p-value:0.000113585906542
+TC size vs. improv rate per cycle
+corr coefficient:0.580730103959; p-value:0.000395147346624
+model of ref size vs. improv rate per cycle
+corr coefficient:0.619786474687; p-value:0.000119792815257
+

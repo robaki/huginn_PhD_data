@@ -1,0 +1,33 @@
+folder 1:not_crashed/err0_mod2; folder 2:not_crashed/err0_mod4
+stats:
+average nb of drifts: folder 1:4.722222222222222; folder 2: 2.1666666666666665
+std deviation: folder1: 2.2926344757737054; folder2: 2.29128784747792
+average drifting rate per cycle: folder 1:0.1782867672385716; folder 2: 0.09269866340486967
+std deviation: folder1:0.15182961660284966; folder2:0.13869313477247064
+are the numbers of drifts different?
+(array(7.28887440558763), 1.6255171037446126e-08)
+are the numbers of drifting rates (per cycle) different?
+(array(7.296059603309643), 1.5914886739039288e-08)
+
+folder 1:not_crashed/err0_mod4; folder 2:not_crashed/err0_mod6
+stats:
+average nb of drifts: folder 1:2.1666666666666665; folder 2: 1.3888888888888888
+std deviation: folder1: 2.29128784747792; folder2: 1.6712898840545913
+average drifting rate per cycle: folder 1:0.09269866340486967; folder 2: 0.06531417411360535
+std deviation: folder1:0.13869313477247064; folder2:0.09970494840653948
+are the numbers of drifts different?
+(array(3.0824316767044904), 0.0039881271199313914)
+are the numbers of drifting rates (per cycle) different?
+(array(2.235228605464541), 0.031882191656549652)
+
+folder 1:not_crashed/err0_mod2; folder 2:not_crashed/err0_mod6
+stats:
+average nb of drifts: folder 1:4.722222222222222; folder 2: 1.3888888888888888
+std deviation: folder1: 2.2926344757737054; folder2: 1.6712898840545913
+average drifting rate per cycle: folder 1:0.1782867672385716; folder 2: 0.06531417411360535
+std deviation: folder1:0.15182961660284966; folder2:0.09970494840653948
+are the numbers of drifts different?
+(array(10.801234497346435), 1.0862573422578275e-12)
+are the numbers of drifting rates (per cycle) different?
+(array(9.371997732626115), 4.499477029541419e-11)
+

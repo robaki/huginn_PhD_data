@@ -1,0 +1,364 @@
+Influence of additional working models for the error level: 0
+is there a difference in performance?
+mod2_vs_mod4_perc_different: t-stats: 3.0103628203393535; p-val: 0.00240852207394
+mod2_vs_mod4_rate_cyc_different: t-stats: -0.3583369518912465; p-val: 0.36112176203
+mod2_vs_mod4_rate_time_different: t-stats: 4.6254749721405926; p-val: 2.47285035536e-05
+
+mod4_vs_mod6_perc_different: t-stats: 2.936814200360062; p-val: 0.0029144351589
+mod4_vs_mod6_rate_cyc_different: t-stats: -1.2475594231630671; p-val: 0.110237721952
+mod4_vs_mod6_rate_time_different: t-stats: 2.8291569307680082; p-val: 0.0038376341869
+
+mod2_vs_mod6_perc_different: t-stats: 3.94391571568275; p-val: 0.000183541130238
+mod2_vs_mod6_rate_cyc_different: t-stats: -1.1866454660795984; p-val: 0.121679993061
+mod2_vs_mod6_rate_time_different: t-stats: 4.907631418209028; p-val: 1.0599681915e-05
+
+
+
+is using more working models better?
+mod2_mod4_perc successes: 11 / 36
+mod2_mod4_perc_binom: 0.0144083598279
+mod2_mod4_rate_cyc successes: 21 / 36
+mod2_mod4_rate_cyc_binom: 0.20251612307
+mod2_mod4_rate_time successes: 0 / 36
+mod2_mod4_rate_time_binom: 1.45519152284e-11
+
+mod4_mod6_perc successes: 11 / 36
+mod4_mod6_perc_binom: 0.0144083598279
+mod4_mod6_rate_cyc successes: 17 / 36
+mod4_mod6_rate_cyc_binom: 0.433969700214
+mod4_mod6_rate_time successes: 2 / 36
+mod4_mod6_rate_time_binom: 9.70612745732e-09
+
+mod2_mod6_perc successes: 8 / 36
+mod2_mod6_perc_binom: 0.000596621481236
+mod2_mod6_rate_cyc successes: 18 / 36
+mod2_mod6_rate_cyc_binom: 0.5
+mod2_mod6_rate_time successes: 0 / 36
+mod2_mod6_rate_time_binom: 1.45519152284e-11
+
+
+
+Influence of additional working models for the error level: 30
+is there a difference in performance?
+mod2_vs_mod4_perc_different: t-stats: 0.8362000721707358; p-val: 0.204357586619
+mod2_vs_mod4_rate_cyc_different: t-stats: -0.6465210416299224; p-val: 0.26107965076
+mod2_vs_mod4_rate_time_different: t-stats: 3.518548220453736; p-val: 0.000612105218831
+
+mod4_vs_mod6_perc_different: t-stats: 2.4671983710582253; p-val: 0.00932752403243
+mod4_vs_mod6_rate_cyc_different: t-stats: 0.40640387868919936; p-val: 0.343460117936
+mod4_vs_mod6_rate_time_different: t-stats: 2.406371734310933; p-val: 0.0107634378336
+
+mod2_vs_mod6_perc_different: t-stats: 2.9813140059573264; p-val: 0.00259755274366
+mod2_vs_mod6_rate_cyc_different: t-stats: -0.2886590925339275; p-val: 0.38727251694
+mod2_vs_mod6_rate_time_different: t-stats: 3.9262146196606738; p-val: 0.000193139434622
+
+
+
+is using more working models better?
+mod2_mod4_perc successes: 19 / 36
+mod2_mod4_perc_binom: 0.433969700214
+mod2_mod4_rate_cyc successes: 22 / 36
+mod2_mod4_rate_cyc_binom: 0.121492477017
+mod2_mod4_rate_time successes: 2 / 36
+mod2_mod4_rate_time_binom: 9.70612745732e-09
+
+mod4_mod6_perc successes: 8 / 36
+mod4_mod6_perc_binom: 0.000596621481236
+mod4_mod6_rate_cyc successes: 19 / 36
+mod4_mod6_rate_cyc_binom: 0.433969700214
+mod4_mod6_rate_time successes: 4 / 36
+mod4_mod6_rate_time_binom: 9.70787368715e-07
+
+mod2_mod6_perc successes: 13 / 36
+mod2_mod6_perc_binom: 0.0662490819814
+mod2_mod6_rate_cyc successes: 18 / 36
+mod2_mod6_rate_cyc_binom: 0.5
+mod2_mod6_rate_time successes: 3 / 36
+mod2_mod6_rate_time_binom: 1.13606802188e-07
+
+
+
+Influence of additional working models for the error level: 60
+is there a difference in performance?
+mod2_vs_mod4_perc_different: t-stats: 1.3682777231519774; p-val: 0.0899726667499
+mod2_vs_mod4_rate_cyc_different: t-stats: 1.0079299111738236; p-val: 0.160202952179
+mod2_vs_mod4_rate_time_different: t-stats: 3.179485032584528; p-val: 0.00154165118173
+
+mod4_vs_mod6_perc_different: t-stats: -0.8490019089642882; p-val: 0.200825001835
+mod4_vs_mod6_rate_cyc_different: t-stats: -1.9069279931166334; p-val: 0.0323824637763
+mod4_vs_mod6_rate_time_different: t-stats: 0.8161061072821033; p-val: 0.209979647317
+
+mod2_vs_mod6_perc_different: t-stats: 0.7735763721020857; p-val: 0.222187558684
+mod2_vs_mod6_rate_cyc_different: t-stats: -0.6004392347971443; p-val: 0.27604100383
+mod2_vs_mod6_rate_time_different: t-stats: 2.950377417481169; p-val: 0.00281419191358
+
+
+
+is using more working models better?
+mod2_mod4_perc successes: 13 / 36
+mod2_mod4_perc_binom: 0.0662490819814
+mod2_mod4_rate_cyc successes: 17 / 36
+mod2_mod4_rate_cyc_binom: 0.433969700214
+mod2_mod4_rate_time successes: 8 / 36
+mod2_mod4_rate_time_binom: 0.000596621481236
+
+mod4_mod6_perc successes: 20 / 36
+mod4_mod6_perc_binom: 0.308859658515
+mod4_mod6_rate_cyc successes: 24 / 36
+mod4_mod6_rate_cyc_binom: 0.0326226676116
+mod4_mod6_rate_time successes: 10 / 36
+mod4_mod6_rate_time_binom: 0.00566549209179
+
+mod2_mod6_perc successes: 14 / 36
+mod2_mod6_perc_binom: 0.121492477017
+mod2_mod6_rate_cyc successes: 22 / 36
+mod2_mod6_rate_cyc_binom: 0.121492477017
+mod2_mod6_rate_time successes: 10 / 36
+mod2_mod6_rate_time_binom: 0.00566549209179
+
+
+
+
+
+comparing improvement rates between mod versions: err_lvl: 0; TC_by_TC: False
+2 vs 4: 
+ttest: (array(1.8917087399244816), 0.066827429740282746) 
+binom: 0.242984954035 
+ succ: 14/36
+4 vs 6: 
+ttest: (array(-0.11915256993845086), 0.90583577163745033) 
+binom: 1.0 
+ succ: 18/36
+2 vs 6: 
+ttest: (array(2.097291122365921), 0.043259686008869314) 
+binom: 0.61771931703 
+ succ: 16/36
+
+
+
+
+comparing improvement rates between mod versions: err_lvl: 0; TC_by_TC: True
+tc01
+t_stat: 1.038495903696478 p_value: 0.35769012908
+tc02
+t_stat: 0.7029361715812709 p_value: 0.520852460929
+tc03
+t_stat: 0.6584070104272259 p_value: 0.54624471222
+tc04
+t_stat: -1.9961835579112883 p_value: 0.116623725888
+tc05
+t_stat: 1.980767261592896 p_value: 0.118697346614
+tc06
+t_stat: 0.4300988140170016 p_value: 0.689282268158
+tc07
+t_stat: 1.3710854520018747 p_value: 0.242239970856
+tc08
+t_stat: 1.2846699012815765 p_value: 0.268257529412
+tc09
+t_stat: -0.9459770251720095 p_value: 0.397725119205
+tc10
+t_stat: 1.9615044628192253 p_value: 0.12134514528
+tc11
+t_stat: -0.8359969943224577 p_value: 0.450187546043
+tc12
+t_stat: -0.6761142900073283 p_value: 0.53604415416
+tc01
+t_stat: 0.04722932552932557 p_value: 0.964594457184
+tc02
+t_stat: -0.8362630034051697 p_value: 0.45005417305
+tc03
+t_stat: -0.8256291011707021 p_value: 0.455410446668
+tc04
+t_stat: 0.49417506027305624 p_value: 0.64709069229
+tc05
+t_stat: -2.356169280780514 p_value: 0.077988217377
+tc06
+t_stat: -0.5877448434316261 p_value: 0.588282234672
+tc07
+t_stat: -2.113682048542209 p_value: 0.102065950906
+tc08
+t_stat: 0.8400476681654729 p_value: 0.448160017451
+tc09
+t_stat: 2.090846717820945 p_value: 0.104730451228
+tc10
+t_stat: -1.097025346004799 p_value: 0.334237727465
+tc11
+t_stat: 1.5491422447507233 p_value: 0.196273012443
+tc12
+t_stat: 3.2813839423961375 p_value: 0.0304610790797
+tc01
+t_stat: 0.1878513513445751 p_value: 0.860137751073
+tc02
+t_stat: 0.7855982380028538 p_value: 0.476026403307
+tc03
+t_stat: -1.2693625596287288 p_value: 0.273140626145
+tc04
+t_stat: -0.9091640225883127 p_value: 0.414689631163
+tc05
+t_stat: -0.9820798020164005 p_value: 0.381663653129
+tc06
+t_stat: -0.22605645686367057 p_value: 0.832238745389
+tc07
+t_stat: 0.856420426325909 p_value: 0.440039321918
+tc08
+t_stat: 1.443311716790388 p_value: 0.222414674968
+tc09
+t_stat: 0.30755799636719494 p_value: 0.77376712387
+tc10
+t_stat: 2.971372433970864 p_value: 0.0410883745342
+tc11
+t_stat: 0.9673612379352947 p_value: 0.38814324244
+tc12
+t_stat: 0.7876974890509647 p_value: 0.474927525939
+
+
+
+comparing improvement rates between mod versions: err_lvl: 30; TC_by_TC: True
+tc01
+t_stat: -4.90845396779702 p_value: 0.00799530802655
+tc02
+t_stat: 0.9466020479062007 p_value: 0.397442226056
+tc03
+t_stat: -0.7660025226890337 p_value: 0.48637870094
+tc04
+t_stat: -0.5862811979111743 p_value: 0.589175080682
+tc05
+t_stat: 0.7780385039952411 p_value: 0.479999904684
+tc06
+t_stat: -0.5281855126262415 p_value: 0.625315950672
+tc07
+t_stat: -0.043107614198211304 p_value: 0.967681799723
+tc08
+t_stat: 0.7111193546925253 p_value: 0.516280222305
+tc09
+t_stat: -0.2252169256163651 p_value: 0.832848796318
+tc10
+t_stat: 1.7954388962133534 p_value: 0.147016715994
+tc11
+t_stat: 0.1487421544922236 p_value: 0.888954603864
+tc12
+t_stat: -0.8915757962791309 p_value: 0.423005762208
+tc01
+t_stat: 1.7695968247275735 p_value: 0.151510817815
+tc02
+t_stat: -0.25963219130727216 p_value: 0.807962937807
+tc03
+t_stat: -0.10473863022307177 p_value: 0.92162504337
+tc04
+t_stat: 0.9087910908373039 p_value: 0.414864542625
+tc05
+t_stat: 0.44473910671463385 p_value: 0.679512667137
+tc06
+t_stat: 0.44664282033801916 p_value: 0.678247811102
+tc07
+t_stat: 0.2620099633729927 p_value: 0.806253231101
+tc08
+t_stat: -0.22241349648096584 p_value: 0.834886955537
+tc09
+t_stat: 0.8072753233047424 p_value: 0.464773912205
+tc10
+t_stat: 1.801467673019193 p_value: 0.145988865413
+tc11
+t_stat: -0.8718600216157528 p_value: 0.432490844048
+tc12
+t_stat: -0.08715912614545435 p_value: 0.934733906205
+tc01
+t_stat: -2.071539399052858 p_value: 0.107043333611
+tc02
+t_stat: 0.3696395529295703 p_value: 0.730388716098
+tc03
+t_stat: -0.45307054440539524 p_value: 0.67398661137
+tc04
+t_stat: -0.4746710037196492 p_value: 0.659775485536
+tc05
+t_stat: 1.101816142112506 p_value: 0.332380819396
+tc06
+t_stat: 1.1071537736059966 p_value: 0.330322999393
+tc07
+t_stat: 1.5400163524528003 p_value: 0.198398521313
+tc08
+t_stat: 1.6287346153843265 p_value: 0.178700771707
+tc09
+t_stat: 0.5391128783671353 p_value: 0.618415083293
+tc10
+t_stat: 5.782450578593607 p_value: 0.00444344576564
+tc11
+t_stat: 0.12702136357346097 p_value: 0.905052848316
+tc12
+t_stat: -0.9150429248110314 p_value: 0.411940437024
+
+
+
+comparing improvement rates between mod versions: err_lvl: 60; TC_by_TC: True
+tc01
+t_stat: 0.175261871351096 p_value: 0.869388036645
+tc02
+t_stat: 2.0355208952609067 p_value: 0.111510093066
+tc03
+t_stat: 1.6955026726452078 p_value: 0.165223547329
+tc04
+t_stat: 0.9447041130133107 p_value: 0.398301783754
+tc05
+t_stat: -0.9564337187814819 p_value: 0.39301475161
+tc06
+t_stat: 0.05209181026888204 p_value: 0.960953213152
+tc07
+t_stat: 0.5906760808463842 p_value: 0.586496792223
+tc08
+t_stat: 1.39120411708409 p_value: 0.23654754092
+tc09
+t_stat: -2.097210729821413 p_value: 0.10398022648
+tc10
+t_stat: 1.9719308848704822 p_value: 0.119904053319
+tc11
+t_stat: 0.17324138885365917 p_value: 0.870875018502
+tc12
+t_stat: 1.9448529505093022 p_value: 0.123685938981
+tc01
+t_stat: -0.134990323744514 p_value: 0.899139778562
+tc02
+t_stat: 0.17999370150082675 p_value: 0.86590819606
+tc03
+t_stat: -1.5872559300924145 p_value: 0.187645787865
+tc04
+t_stat: -0.791295270779939 p_value: 0.473048794138
+tc05
+t_stat: -0.8037187616946773 p_value: 0.466605735022
+tc06
+t_stat: -0.30464200989157514 p_value: 0.77583111248
+tc07
+t_stat: 0.49831496508164863 p_value: 0.644416546071
+tc08
+t_stat: 0.13879797111507347 p_value: 0.896317220587
+tc09
+t_stat: 0.4616645360558339 p_value: 0.668312340268
+tc10
+t_stat: -2.5488249067448407 p_value: 0.0633843694445
+tc11
+t_stat: -2.5100584905081473 p_value: 0.0660532414525
+tc12
+t_stat: 1.0244847419142291 p_value: 0.363517313192
+tc01
+t_stat: -0.6481189239135702 p_value: 0.552233405102
+tc02
+t_stat: 1.6924551245746875 p_value: 0.165814889738
+tc03
+t_stat: 0.9650854545684947 p_value: 0.389153506938
+tc04
+t_stat: 0.06751910723377948 p_value: 0.949408707109
+tc05
+t_stat: -3.814635191917306 p_value: 0.0188649146058
+tc06
+t_stat: 0.631005181648309 p_value: 0.56229563228
+tc07
+t_stat: 0.2617068899341632 p_value: 0.806471079654
+tc08
+t_stat: 1.2450966717806606 p_value: 0.281056692998
+tc09
+t_stat: -1.5391761085681988 p_value: 0.198595403881
+tc10
+t_stat: 1.7343088426298305 p_value: 0.157884986986
+tc11
+t_stat: -1.0833473256580233 p_value: 0.339591138576
+tc12
+t_stat: 3.8501263567603594 p_value: 0.0183006254401

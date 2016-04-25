@@ -1,0 +1,66 @@
+is drifting useful (ttest)? not_crashed/err0_mod2
+before: avg 11.11111111111111; stddev 8.118147632782637
+total: avg 22.666666666666668; stddev 11.051646433400268
+succ.: 35/0/1
+(array(-8.932011079135998), 1.4936683628052076e-10)
+
+is drifting useful (ttest)? not_crashed/err0_mod4
+before: avg 15.541666666666666; stddev 8.197751216034797
+total: avg 18.98611111111111; stddev 7.336633832191321
+succ.: 21/1/14
+(array(-5.004465615656423), 1.5827886916452176e-05)
+
+is drifting useful (ttest)? not_crashed/err0_mod6
+before: avg 14.671296296296296; stddev 5.704866629281312
+total: avg 16.25; stddev 5.840537879001333
+succ.: 12/1/23
+(array(-2.800077154228162), 0.0082607047866454647)
+
+is drifting useful (ttest)? not_crashed/err30_mod2
+before: avg 6.944444444444445; stddev 6.468704337227753
+total: avg 12.63888888888889; stddev 9.54565863444907
+succ.: 30/4/2
+(array(-5.5876181810719325), 2.7005919849819634e-06)
+
+is drifting useful (ttest)? not_crashed/err30_mod4
+before: avg 8.972222222222221; stddev 6.584856832625356
+total: avg 11.208333333333334; stddev 7.4429543492113694
+succ.: 23/2/11
+(array(-3.414552688355802), 0.0016314016960924157)
+
+is drifting useful (ttest)? not_crashed/err30_mod6
+before: avg 8.224074074074075; stddev 5.953594261997399
+total: avg 9.381481481481481; stddev 6.429985909227714
+succ.: 12/8/16
+(array(-2.0233834455590505), 0.050722776036480309)
+
+is drifting useful (ttest)? not_crashed/err60_mod2
+before: avg 6.236111111111111; stddev 5.867147365617855
+total: avg 8.694444444444445; stddev 8.284253619046883
+succ.: 23/10/3
+(array(-2.9598473022012026), 0.0054922690146479384)
+
+is drifting useful (ttest)? not_crashed/err60_mod4
+before: avg 5.430555555555555; stddev 5.159811013143604
+total: avg 7.111111111111111; stddev 6.178042560272891
+succ.: 19/7/10
+(array(-3.092068822330766), 0.0038881093426354017)
+
+is drifting useful (ttest)? not_crashed/err60_mod6
+before: avg 5.416666666666668; stddev 5.118126224448037
+total: avg 7.25925925925926; stddev 5.483483118021259
+succ.: 19/5/12
+(array(-3.319526379511528), 0.0021147550652824464)
+
+is drifting useful (ttest)? not_crashed/first_batch_all_exps
+before: avg 15.075757575757576; stddev 7.99348334215006
+total: avg 21.507575757575758; stddev 8.561162491972556
+succ.: 23/0/10
+(array(-5.315217911997093), 7.9408011689893119e-06)
+
+is drifting useful (ttest)? not_crashed/first_batch_two_factor
+before: avg 12.583333333333334; stddev 9.49375126761351
+total: avg 21.310606060606062; stddev 13.209132272419197
+succ.: 29/1/3
+(array(-5.574066215635035), 3.737604047367824e-06)
+

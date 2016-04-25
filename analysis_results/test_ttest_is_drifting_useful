@@ -1,0 +1,44 @@
+is drifting useful (ttest)? not_crashed/err0_mod2
+succ.: 35/0/1
+(array(-8.932011079135998), 1.4936683628052076e-10)
+
+is drifting useful (ttest)? not_crashed/err0_mod4
+succ.: 21/1/14
+(array(-5.004465615656423), 1.5827886916452176e-05)
+
+is drifting useful (ttest)? not_crashed/err0_mod6
+succ.: 12/1/23
+(array(-2.800077154228162), 0.0082607047866454647)
+
+is drifting useful (ttest)? not_crashed/err30_mod2
+succ.: 30/4/2
+(array(-5.5876181810719325), 2.7005919849819634e-06)
+
+is drifting useful (ttest)? not_crashed/err30_mod4
+succ.: 23/2/11
+(array(-3.414552688355802), 0.0016314016960924157)
+
+is drifting useful (ttest)? not_crashed/err30_mod6
+succ.: 12/8/16
+(array(-2.0233834455590505), 0.050722776036480309)
+
+is drifting useful (ttest)? not_crashed/err60_mod2
+succ.: 23/10/3
+(array(-2.9598473022012026), 0.0054922690146479384)
+
+is drifting useful (ttest)? not_crashed/err60_mod4
+succ.: 19/7/10
+(array(-3.092068822330766), 0.0038881093426354017)
+
+is drifting useful (ttest)? not_crashed/err60_mod6
+succ.: 19/5/12
+(array(-3.319526379511528), 0.0021147550652824464)
+
+is drifting useful (ttest)? not_crashed/first_batch_all_exps
+succ.: 23/0/10
+(array(-5.315217911997093), 7.9408011689893119e-06)
+
+is drifting useful (ttest)? not_crashed/first_batch_two_factor
+succ.: 29/1/3
+(array(-5.574066215635035), 3.737604047367824e-06)
+

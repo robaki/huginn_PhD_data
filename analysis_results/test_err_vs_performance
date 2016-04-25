@@ -1,0 +1,48 @@
+Influence of error level on performance: 0 vs 30
+is there a difference in performance?
+err1_vs_err2_perc_different: t-stats: 13.536438761067918; p-val: 6.29088701196e-25
+err1_vs_err2_rate_cyc_different: t-stats: 5.949739400354777; p-val: 3.43967903388e-08
+err1_vs_err2_rate_time_different: t-stats: 4.169369929960895; p-val: 6.22207263366e-05
+
+is lower error better?
+err1_vs_err2_perc successes: 95 / 108
+err1_vs_err2_perc_binom: 1.46491400493e-16
+err1_vs_err2_rate_cyc successes: 76 / 108
+err1_vs_err2_rate_cyc_binom: 2.76078699662e-05
+err1_vs_err2_rate_time successes: 74 / 108
+err1_vs_err2_rate_time_binom: 0.000149097468127
+
+
+
+Influence of error level on performance: 30 vs 60
+is there a difference in performance?
+err1_vs_err2_perc_different: t-stats: 8.217759961708834; p-val: 5.22500342205e-13
+err1_vs_err2_rate_cyc_different: t-stats: 3.4409229626548754; p-val: 0.00082789480602
+err1_vs_err2_rate_time_different: t-stats: -0.5173540532365862; p-val: 0.605976905203
+
+is lower error better?
+err1_vs_err2_perc successes: 89 / 108
+err1_vs_err2_perc_binom: 5.1311623938e-12
+err1_vs_err2_rate_cyc successes: 70 / 108
+err1_vs_err2_rate_cyc_binom: 0.00268469804128
+err1_vs_err2_rate_time successes: 57 / 108
+err1_vs_err2_rate_time_binom: 0.630633834531
+
+
+
+Influence of error level on performance: 0 vs 60
+is there a difference in performance?
+err1_vs_err2_perc_different: t-stats: 17.378506529906687; p-val: 6.23468324538e-33
+err1_vs_err2_rate_cyc_different: t-stats: 8.382756523986354; p-val: 2.24522450703e-13
+err1_vs_err2_rate_time_different: t-stats: 3.2364636241719245; p-val: 0.00161116307326
+
+is lower error better?
+err1_vs_err2_perc successes: 103 / 108
+err1_vs_err2_perc_binom: 7.21304299434e-25
+err1_vs_err2_rate_cyc successes: 88 / 108
+err1_vs_err2_rate_cyc_binom: 2.32220982973e-11
+err1_vs_err2_rate_time successes: 66 / 108
+err1_vs_err2_rate_time_binom: 0.0264235202771
+
+
+
